@@ -1,9 +1,9 @@
 # Data Analyst Learning Journal
 
-> Last updated: 22 June 2026
+> Last updated: 23 June 2026
 
 ---
-## Day 1 — Set up the data analyst study repo
+## Day 1 — Set up your data analyst portfolio
 
 **Phase:** Setup  
 

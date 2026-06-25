@@ -1,24 +1,22 @@
-# Data Analyst Learning Journal
+# Data Analyst Job-Ready Learning Journal
 
-> Last updated: 23 June 2026
+> Last updated: 25 June 2026
 
 ---
-## Day 1 — Set up your data analyst portfolio
 
-**Phase:** Setup  
+## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
 
 ### What I Did
 
-1. Created a free GitHub account.
-2. Install VS Code on my computer.
-3. I Installed Git.
-4. I Created your portfolio repo on GitHub.
-5. I Cloned the repo into VS Code.
-6. I Created your evidence folders.
-7. I Set up Excel or Google Sheets.
-8. I Connected Qode Clarity to your repo.
-9. Wrote my intro README.
-10. Wrote your intro README.
+1. Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+2. Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+3. Paste the 8-row sample data into cell A1 of RawTransactions
+4. Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
+5. Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
+6. Filter Status to Pending and Review only — confirm 4 of 8 rows visible
+7. Name the Amount column TransactionAmounts and the Status column ReviewStatus
 
 ### To Explore Further
 

@@ -19,6 +19,7 @@
 7. Name the Amount column TransactionAmounts and the Status column ReviewStatus
 8. In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
 9. I learnt that Excel tables make sorting, filtering and managing dates easier.
+10. https://us.wps.com/l/cbEaafvoZ0fkQofi link for (Week-01-branch-transaction.xlsx with three sheets RawTransactions, Tracker, Notes)
 
 ### To Explore Further
 

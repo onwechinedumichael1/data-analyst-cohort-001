@@ -19,6 +19,7 @@
 7. Name the Amount column TransactionAmounts and the Status column ReviewStatus
 8. In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
 9. In Notes: answer the three reflection questions in plain sentences
+10. the Create week-01-branch-transactions.xlsx link https://us.wps.com/l/cbEaafvoZ0fkQofi
 
 ### To Explore Further
 

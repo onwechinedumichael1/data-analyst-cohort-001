@@ -22,6 +22,35 @@
 
 
 
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Learn: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-25 | **Method:** SOLVE
+
+> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+
+### S — Split the problem
+- organise
+
+- table
+
+
+---
+<!-- framework:five-how -->
+
+## Learn: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-25 | **Method:** 5-HOW
+
+> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+
+### Write it — code the solution
+- following the instructions
+
+- excel tools
+
 ---
 
 > Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.

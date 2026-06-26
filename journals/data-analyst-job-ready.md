@@ -18,7 +18,7 @@
 6. Filter Status to Pending and Review only — confirm 4 of 8 rows visible
 7. Name the Amount column TransactionAmounts and the Status column ReviewStatus
 8. In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
-9. In Notes: answer the three reflection questions in plain sentences
+9. Answered the three reflection questions in plain sentences
 10. the Create week-01-branch-transactions.xlsx link https://us.wps.com/l/cbEaafvoZ0fkQofi
 
 ### To Explore Further
@@ -31,14 +31,12 @@
 <!-- framework:solve -->
 
 ## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-25 | **Method:** SOLVE
+**Completed:** 2026-06-26 | **Method:** SOLVE
 
 > **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
 
 ### S — Split the problem
-- organise
-
-- table
+- The finished work showcased several things, that was hard to identify, due to the presence of large amount of data, which need to sorted, classed, sorted, identified and hidden data showcased, in other words, the finished workbook showed the specifically what is needed to work work with, either the highest TransactionsAmount, where it came from, date and product or SUM of the transactions at a glance, instead of going through the bulk of raw data.
 
 
 ---

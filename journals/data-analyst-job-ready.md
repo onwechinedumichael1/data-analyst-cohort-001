@@ -93,7 +93,37 @@ Renamed the sheet from sheet1 to RawTransactions, clicked on + to add a New shee
 **Where it breaks down:** it is limited to certain amount of goods to be counted, big data cannot be counted by the traditional way or separated.
 
 ### Use it — job story
-**My role:** Junior data analyst in a company
+**My role:** Junior data analyst in a company,
+
+**The problem:** Loan, it is at amount of 12,500, described as Loan from Manchester.
+
+When i opened the workbook, and I clicked on any cell in the column, clicked on Home, clicked on filter, and selected from highest to lower, and it was sorted, starting from the highest value.
+
+### See it — expected output
+- Column A is seen to contain text labels Row A and Row B
+Column B contains numeric values, which are 150.00 (Key cell. ColumnB: Row A) and 89.50 (Key cell: Column B: Row B)
+
+- It is seen to have A column labelled Column A, a number in Column B. and a formula Result column.
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- I followed the instruction, and the functions that the Manager described.
+
+- =A2*1.1A3*11
+
+- YES
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- =A2 1.1
+
+- YES.
 
 ---
 

@@ -36,7 +36,7 @@
 > **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
 
 ### S — Split the problem
-- The task asked me to sort data, filter data, SUM data and place the answer on the first row for easy identification at a glance.
+- A bank branch manager receives a raw transaction export and needs it turned into a usable tracker,  a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable. The task asked me to sort data, filter data, SUM data and place the answer on the first row for easy identification at a glance.
 
 - I am starting from a raw transaction export, copy and saved as RawTransactions, never to edit, copied to another sheet as Tracker, my working area.
 
@@ -121,9 +121,13 @@ Column B contains numeric values, which are 150.00 (Key cell. ColumnB: Row A) an
 > 
 > Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
 
+- I opened excel, clicked on open new sheet, opened the sheet, created sheet 2, and sheet 3, renamed the sheets RawTransactions, Trackers and Notes respectively, 
+copied the data to the Tracker sheet so that the original RawTransactions data would remain unchanged. 
+The raw sheet acts as a backup and a reliable source of data. If I edited the raw sheet directly, I could accidentally delete or change important information, making it difficult to identify errors or restore the original data.
+
 - =A2 1.1
 
-- YES.
+- The result is the SUM of the data on the column, to the total sum of 30010.
 
 ---
 

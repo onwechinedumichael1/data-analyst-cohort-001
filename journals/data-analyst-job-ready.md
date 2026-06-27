@@ -114,7 +114,7 @@ Column B contains numeric values, which are 150.00 (Key cell. ColumnB: Row A) an
 
 - =A2*1.1A3*11
 
-- YES
+- 30010, that’s the total sum of the formula, used on the column of interest as described in the formula bar.
 
 ### Try it — Scenario 2
 > Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"

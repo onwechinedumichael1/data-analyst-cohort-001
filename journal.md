@@ -1,30 +1,22 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 25 June 2026
+> Last updated: 2 July 2026
 
 ---
 
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
 ### What I Did
 
-1. Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-2. Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-3. Paste the 8-row sample data into cell A1 of RawTransactions
-4. Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
-5. Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
-6. Filter Status to Pending and Review only — confirm 4 of 8 rows visible
-7. Name the Amount column TransactionAmounts and the Status column ReviewStatus
-8. In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
-9. I learnt that Excel tables make sorting, filtering and managing dates easier.
-10. https://us.wps.com/l/cbEaafvoZ0fkQofi link for (Week-01-branch-transaction.xlsx with three sheets RawTransactions, Tracker, Notes)
+- **Built:** I learnt how to clean messy data table and make it error free for analysis
+- **Why it matters:** I learnt how to fix each issue and log what I changed and the importance of doing so for business
+- **Explained:** I learnt that it is important to keep the before and after version of the cleaning data
+- **Verified:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
 
 ### To Explore Further
 
 
 
 ---
-
-> Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.

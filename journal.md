@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 3 July 2026
+> Last updated: 4 July 2026
 
 ---
 
@@ -154,15 +154,5 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 - =SUMIF(C:C,“Electronics“,F:F)
 
 - Error due to values attached
-
----
-
-## Day 2 — Analyze: Workbook setup, tables, sorting, filtering, and named ranges
-
-**Phase:** Excel
-
-### To Explore Further
-
-
 
 ---

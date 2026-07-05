@@ -526,3 +526,29 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 
 
 ---
+
+### Lesson 5: Visualize: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-visualize` |
+| Phase | Excel |
+| Saved/updated | 05 Jul 2026, 15:54 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I built a chart
+- **Applied:** The chart is presented with line chart with markers, only A&E data plus Paediatrics when I did the stretch task appeard
+- **Explained:** I changed the title: A&E average wait times are failing-6- month trend
+- **Verified:** I named the Y-axis: Minutes
+- **Reflected:** Data label only on June (141 min)
+- **Next proof:** The chart has no gridlines, no chart border, A&E line is red and Paediatrics line is blue
+- **Note:** The chart link: https://us.wps.com/l/cbEaauu4xISE0PmM
+
+### To Explore Further
+
+
+
+---

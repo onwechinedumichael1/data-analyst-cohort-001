@@ -1,12 +1,351 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 4 July 2026
+> Last updated: 5 July 2026
 
 ---
 
-## Day 1 — Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
+## Week 1: Day 1: Workspace Setup
 
-**Phase:** Excel
+### Lesson 1: Set up your data analyst portfolio
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-setup-day-1` |
+| Phase | Setup |
+| Saved/updated | 24 Jun 2026, 18:37 |
+| Completed tasks | 10 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** Created a free GitHub account
+- **Applied:** Install VS Code on my computer
+- **Explained:** I Installed Git
+- **Built:** I Created your portfolio repo on GitHub
+- **Reflected:** I Cloned the repo into VS Code
+- **Built:** I Created your evidence folders
+- **Note:** I Set up Excel or Google Sheets
+- **Note:** I Connected Qode Clarity to your repo
+- **Built:** Wrote my intro README
+- **Note:** What we did on 23/6/26
+- **Note:** We went to official website of python
+- **Note:** Downloaded and installed python..@ below
+- **Note:** https://www.python.org/downloads/macos
+- **Note:** Installed
+- **Verified:** Checked for version (python 3-V)
+- **Note:** We went to Jupyter notebook official website @
+- **Applied:** Copied and installed command used
+- **Note:** https://jupyter.org/install
+- **Note:** We launched the notebook
+- **Note:** python3 -m pop install notebook
+- **Note:** python3 -m Jupyter notebook
+
+### To Explore Further
+
+
+
+---
+
+## Week 2: Week 1: Workbook setup, tables, sorting, filtering, and named r
+
+### Lesson 1: Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-learn` |
+| Phase | Excel |
+| Saved/updated | 27 Jun 2026, 11:10 |
+| Completed tasks | 9 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Applied:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Explained:** Paste the 8-row sample data into cell A1 of RawTransactions
+- **Verified:** Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
+- **Reflected:** Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
+- **Verified:** Filter Status to Pending and Review only — confirm 4 of 8 rows visible
+- **Note:** Name the Amount column TransactionAmounts and the Status column ReviewStatus
+- **Verified:** In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
+- **Note:** In Notes: answer the three reflection questions in plain sentences
+- **Note:** the Create week-01-branch-transactions.xlsx link https://us.wps.com/l/cbEaafvoZ0fkQofi
+
+### To Explore Further
+
+
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Learn: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-27 | **Method:** SOLVE
+
+> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+
+### S — Split the problem
+- A bank branch manager receives a raw transaction export and needs it turned into a usable tracker,  a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable. The task asked me to sort data, filter data, SUM data and place the answer on the first row for easy identification at a glance.
+
+- I am starting from a raw transaction export, copy and saved as RawTransactions, never to edit, copied to another sheet as Tracker, my working area.
+
+- The finished work showcased several things, that was hard to identify, due to the presence of large amount of data, which need to sorted, classed, sorted, identified and hidden data showcased, in other words, the finished workbook showed the specifically what is needed to work work with, either the highest TransactionsAmount, where it came from, date and product or SUM of the transactions at a glance, instead of going through the bulk of raw data, used formulas also, to make it readable.
+
+### O — Observe the data
+The workbook contains 3 worksheets, RawTransactions, Tracker, and Notes, the worksheets has columns (A,B,C,D,E,F,G) and headers (Sample data (Transaction ID), Date, Branch, Customer type, Amount, Status) in 8 transaction records, from row 2 to row 9.
+Header are inconsistent and arranging the data for easy linkage between data of similar records in areas like performance, amount and date.
+
+### V — Verify your logic
+- By checking the formula reference on the formula bar, to see confirm that the area of interest is actually and correctly captured, as well as the interested formula is writing as it should, you can also try to manually run the simpler kind of formula use, to check if the given result is same as expected by using a known value.
+
+- Used a known value of 25 (E13) and 20(F13) as the values to be =SUM(E13:F13) and i expected 45 and I got 45.
+
+- Yes, any of the edge cases can alter the expected result or cause error in the data preparation, for instance, blank cells can reduce the value of the result of the formulation, text of ten instead of 10 in a cell will give an error result as the formula will only capture numbers and not texts, also, space before the value used for the formulation will affect the result negatively, and duplicate value will of course alter the real expected result. to avoid these scenarios, it is important to always check that these mistakes do not happen by testing each of the scenario to check result.
+
+### E — Evolve the solution
+- I did the following; I copied the raw data from the practice or exercise information. 
+Opened excel, clicked on a blank workbook, clicked on cell A1 and pasted the 8-row sample data provided by my instructor. The data went upto 8-rows.
+Renamed the sheet from sheet1 to RawTransactions, clicked on + to add a New sheet, renamed the new sheet to Tracker and pasted the Raw data copied from the Assessment details, before I then clicked on the + icon on the status bar to add another worksheet, which i renamed Note.
+
+- =SUM(TransactionAmounts) and clicked the enter key, and the data generated is 30010.
+
+- I can use this method and handle data work of vary upto 50 rows or more
+
+
+---
+<!-- framework:five-how -->
+
+## Learn: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-27 | **Method:** 5-HOW
+
+> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+
+### Write it — code the solution
+- I did the following; I copied the raw data from the practice or exercise information. 
+Opened excel, clicked on a blank workbook, clicked on cell A1 and pasted the 8-row sample data provided by my instructor. The data went upto 8-rows.
+Renamed the sheet from sheet1 to RawTransactions, clicked on + to add a New sheet, renamed the new sheet to Tracker and pasted the Raw data copied from the Assessment details, before I then clicked on the + icon on the status bar to add another worksheet, which i renamed Note.
+
+- =SUM(TransactionAmounts)
+
+- F9
+
+### Explain it — pseudocode
+I did the following; I copied the raw data from the practice or exercise information. 
+Opened excel, clicked on a blank workbook, clicked on cell A1 and pasted the 8-row sample data provided by my instructor. The data went upto 8-rows.
+Renamed the sheet from sheet1 to RawTransactions, clicked on + to add a New sheet, renamed the new sheet to Tracker and pasted the Raw data copied from the Assessment details, before I then clicked on the + icon on the status bar to add another worksheet, which i renamed Note.
+
+### Compare it — analogy
+**My analogy:** This concept is like when you return from market and the purchased items are all mixed up in the big bag, it is time to separate the toiletry from the edibles and kept them separately for easy identification and usage.
+
+**Why it works:** Here you are checking if you actually bought everything you needed to purchase.
+
+**Where it breaks down:** it is limited to certain amount of goods to be counted, big data cannot be counted by the traditional way or separated.
+
+### Use it — job story
+**My role:** Junior data analyst in a company,
+
+**The problem:** Loan, it is at amount of 12,500, described as Loan from Manchester.
+
+When i opened the workbook, and I clicked on any cell in the column, clicked on Home, clicked on filter, and selected from highest to lower, and it was sorted, starting from the highest value.
+
+### See it — expected output
+- Column A is seen to contain text labels Row A and Row B
+Column B contains numeric values, which are 150.00 (Key cell. ColumnB: Row A) and 89.50 (Key cell: Column B: Row B)
+
+- It is seen to have A column labelled Column A, a number in Column B. and a formula Result column.
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- I followed the instruction, and the functions that the Manager described.
+
+- =A2*1.1A3*11
+
+- 30010, that’s the total sum of the formula, used on the column of interest as described in the formula bar.
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- I opened excel, clicked on open new sheet, opened the sheet, created sheet 2, and sheet 3, renamed the sheets RawTransactions, Trackers and Notes respectively, 
+copied the data to the Tracker sheet so that the original RawTransactions data would remain unchanged. 
+The raw sheet acts as a backup and a reliable source of data. If I edited the raw sheet directly, I could accidentally delete or change important information, making it difficult to identify errors or restore the original data.
+
+- =A2 1.1
+
+- The result is the SUM of the data on the column, to the total sum of 30010.
+
+---
+
+### Lesson 2: Practice: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-practice` |
+| Phase | Excel |
+| Saved/updated | 28 Jun 2026, 07:53 |
+| Completed tasks | 4 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I read the scenario carefully, to ensure I made no mistakes with the instructions
+- **Applied:** I copied the data
+- **Explained:** I opened an Excel workbook
+- **Verified:** I pasted the copied data into the A1
+- **Built:** I created 2 extra sheets and renamed the the sheet1 Raw sheet, the sheet2 was renamed Tracker and the Sheet3 was renamed Notes.
+- **Next proof:** Renaming the sheets is to know the sheet that i will use for workings, while the Raw sheet will not be touched at all to avoid editing the original data, incase I need it later .
+
+### To Explore Further
+
+
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-28 | **Method:** SOLVE
+
+> **Scenario:** Sector: Retail
+> 
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
+
+### S — Split the problem
+- This task asked me to recreate workflow from scratch, follow the instruction, rename sheet, save a the data in a Rawsheet, and another in sheet2, which is renamed Tracker where all the work will take place, so that the originality of the data is preserved in the RawSheet.
+
+- I started from a raw data of purchases, given in the scenario.
+
+- the finished workbook looks different from the raw data in the column F1 where revenue was renamed to SaleRevenue and a SUM(F2:F9) was shown at cell J1 as 1178
+
+### O — Observe the data
+I saw the table showing variable data each day and these records are not following any pattern, making it unpredictable. There, i observed that this exercise is important for institutions and businesses to be able to manage the institution perfectly.
+
+### V — Verify your logic
+- I will check if the formula is correct by manually adding up all the number in the named range.
+
+- by testing with a named value, like 2 and 2 in different cells as a named range, and got 4, it is correct because 2+2=4.
+
+- The edge cases that could break this is making mistakes with the named ranged, or using ranges without numbers, you will get NAME? as an outcome, which is error
+
+### E — Evolve the solution
+- i clicked the excel, it loaded, i copied the data fro the scenario, and pasted it on cell A1, and on another sheet (Sheet2) which i will rename to Tracker, and i will not tamper with the data on the sheet+, which i later renamed Rawsheet, and i will do all the work in the Tracker sheet.
+
+- =SUM(F2:F9)
+
+- I will always read the reference on the formula bar, to ensure that i am using the correct named range, and I will ensue that I never tampered with the raw data saved on Rawsheet.,
+
+
+---
+<!-- framework:five-how -->
+
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-28 | **Method:** 5-HOW
+
+> **Scenario:** Sector: Retail
+> 
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
+
+### Write it — code the solution
+- . I opened the software
+. Clicked on blank worksheet
+. Clicked on A1, where I pasted the copied data
+. Right-Clicked when my cursor is resting on the Sheet1, clicked on rename, to change the name to RawSheet.
+. Clicked on + on the sheet title bar, to add another sheet to the existing sheet(s), this action gave rise to Sheet2
+. I performed the same action above to rename the sheet2 to Tracker, where i did all the work, renaming and =SUM(F1:F9)
+
+- =SUM(F2:F9)
+
+- SaleRevenue
+
+### Explain it — pseudocode
+1. I read the instruction on the scenario
+2. I copied the data
+3. I launched the software for the work, which is excel
+4. I clicked on blank sheet, and the sheet is loaded
+5. I clicked A1 and pasted the copied data into the cell.
+6. I created another sheet2, and renamed Tracker, where I performed all the works, this is to allow the data pasted on Sheet1 renamed to Rawsheet, to be preserved for references, if there is need or mistake on the one used for working.
+7. I continued with remaninh the Revenue column name to SaleRevene.
+8. I used formula =SUM(f2:f9) to get the SUM of the Namedranges as,which is correct as 1178
+9.I tried toclick on the F2 and drag it down to check if the formula is correct.I also added manually because the data is not bulky, and i got the same value.
+
+### Compare it — analogy
+**My analogy:** Delivery van, picking packages and parcels from the post office or the personnel in-charge of sorting these items according to the location they are going, from among parcels.
+
+**Why it works:** each van going to different respective location, makes delivery precise and timely. Same as these filtering, sorting and named ranges, helps fasten work delivery, accuracy, reference and accurate, so long the formula is accurate, and checked by testing simple known values.
+
+**Where it breaks down:** one personnel cannot deliver the items to all the different locations and meet up,same as sorting 1million items manually, or using other means rather than the SQL,
+
+### Use it — job story
+**My role:** Junior Data Analyst, to build the structured workbook, similar to that of the bank.
+
+**The problem:** Dairy category of cheese product, from Southwark store, generated 275 SaleRevenue
+
+I used the filter query to filter from the highest to the lowest, after making the SaleRevenue the ranged name, by clicking the enter key, the workshop was rearranged, showing the highest store, with the highest SaleReveneu, and the product with the products category.
+
+### See it — expected output
+- The spreadsheet layout has seven columns and 9 rows, the column carries the title of data listed under, while the rows describes the characteristics of a product.
+
+- The final result shows a workbook, with SaleID, Date of transactions, the store name, the product and the product category, the status of the item, if it is sold, returned or pending, as well as the salerevenue, with the result of entire salerevenue as 1178.
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- . open the excel app
+. click to launch
+. click of blank sheet
+. copy the given data and paste in on A1, by clicking on A1.
+. Rename Sheet1 ro Rawsheet.
+. click on the + icon next to sheet1 that was renamed.
+. Rename sheet2 to Tracker, copy and paste the Rawsheet information.
+. to format, i highlighte from A1 and dragged it down to G9
+. Rename Revenue column title to SaleReveneu.
+. click on J1 and use this formula to sum (=SUM(F2:F9) and click enter key, the result will be 1178.
+. I then clicked Save As, to be able to rename the workbook to.
+
+- SUM, =SUM(F2:F9)
+
+- 1178
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- . open the excel app
+. click to launch
+. click of blank sheet
+. copy the given data and paste in on A1, by clicking on A1.
+. Rename Sheet1 ro Rawsheet.
+. click on the + icon next to sheet1 that was renamed.
+. Rename sheet2 to Tracker, copy and paste the Rawsheet information.
+. to format, i highlighte from A1 and dragged it down to G9
+. Rename Revenue column title to SaleReveneu.
+. click on J1 and use this formula to sum (=SUM(F2:F9) and click enter key, the result will be 1178.
+. I then clicked Save As, to be able to rename the workbook to.
+
+- SUM, =SUM(F2:F9)
+
+- 1178
+
+---
+
+### Lesson 3: Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 04 Jul 2026, 18:04 |
+| Completed tasks | 4 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -14,6 +353,14 @@
 - **Why it matters:** I learnt how to fix each issue and log what I changed and the importance of doing so for business
 - **Explained:** I learnt that it is important to keep the before and after version of the cleaning data
 - **Verified:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
+- **Reflected:** I studied what data is all about, how to describe data, Data name, formats, types and structure.
+- **Next proof:** Studied Data life cycle
+- **Note:** as (Collect, Store, Prepare, Analyse, Visualise Decide, Archive)
+- **Note:** Classify data. judge data quality
+- **Note:** Differentiate between data and information
+- **Note:** Studied why data matters eg Hospital, Police, Business, Football.
+- **Note:** Classification by measurement scale
+- **Note:** Identified Data structure (Structured, semi-Structure and unstructured)
 
 ### To Explore Further
 
@@ -154,5 +501,21 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 - =SUMIF(C:C,“Electronics“,F:F)
 
 - Error due to values attached
+
+---
+
+### Lesson 4: Analyze: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-analyze` |
+| Phase | Excel |
+| Saved/updated | 03 Jul 2026, 13:38 |
+| Completed tasks | 4 |
+| Lesson complete | Yes |
+
+### To Explore Further
+
+
 
 ---

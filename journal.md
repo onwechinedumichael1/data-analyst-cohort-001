@@ -510,9 +510,16 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 03 Jul 2026, 13:38 |
+| Saved/updated | 04 Jul 2026, 18:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I answered three business questions using branch transactions tracker workbook
+- **Applied:** I showed the exact formula, query, or code for each answer.
+- **Built:** I wrote each answer in one plain sentence
+- **Built:** I wrote one limitation of my analysis
 
 ### To Explore Further
 

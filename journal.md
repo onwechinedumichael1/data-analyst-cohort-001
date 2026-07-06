@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 6 July 2026
+> Last updated: 7 July 2026
 
 ---
 
@@ -585,5 +585,40 @@ The time-to-understand constraints: 2
 3. How can the chart be formatted so the board understands the trend within 90 seconds? (Clear title, red line, data label on June, no gridlines or border.)
 4. What unnecessary information (such as other departments, tables, or extra text) should be removed to keep the visual simple?
 5. Is the finished chart presentation-ready and does it clearly show that A&E waiting times are falling?
+
+---
+
+### Lesson 6: Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 06 Jul 2026, 16:24 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+### Lesson 7: Review: Workbook setup, tables, sorting, filtering, and named ranges
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-01-review` |
+| Phase | Excel |
+| Saved/updated | 06 Jul 2026, 16:35 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I revised the previous days activities, practised tasks and updated my practice notes with a new targets
+- **Applied:** Rated my confidence on each main skill
+- **Explained:** Identified gaps to fill.
+- **Built:** Created the project README with problem, method, evidence, validation, and limitations
+
+### To Explore Further
+
+
 
 ---

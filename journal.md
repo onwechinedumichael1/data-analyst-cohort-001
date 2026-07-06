@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 5 July 2026
+> Last updated: 6 July 2026
 
 ---
 
@@ -533,7 +533,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 15:54 |
+| Saved/updated | 06 Jul 2026, 11:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -550,5 +550,40 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Visualize: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-07-07 | **Method:** SOLVE
+
+> **Scenario:** Sector: Healthcare
+> 
+> Scenario: A hospital operations manager needs to present A&E waiting-time performance to the board. The board has 90 seconds per slide. Your chart must communicate the trend immediately — no table, no explanation needed, just the visual.
+
+### S — Split the problem
+- 1. who is the audience ?
+2. Who is presenting the information?
+3. What information needs to be presented ?
+4. How much time does the audience have for each slide?
+5. What is the main purpose of the visual?
+6. What type of presentation aid is required?
+7. What should be excluded from the slide?
+8. What chart type would best meet this requirement?
+9. What is the key design requirement?
+10. Which chart would best meet this requirement?
+
+- The audience: 1
+The data. 1
+The visual:4
+The time-to-understand constraints: 2
+
+- 1. What A&E waiting-time data (Jan–Jun) should be included in the chart?
+2. Which chart type best shows the waiting-time trend over time? (A line chart.)
+3. How can the chart be formatted so the board understands the trend within 90 seconds? (Clear title, red line, data label on June, no gridlines or border.)
+4. What unnecessary information (such as other departments, tables, or extra text) should be removed to keep the visual simple?
+5. Is the finished chart presentation-ready and does it clearly show that A&E waiting times are falling?
 
 ---

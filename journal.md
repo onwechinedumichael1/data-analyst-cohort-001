@@ -606,7 +606,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:35 |
+| Saved/updated | 06 Jul 2026, 16:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -620,5 +620,50 @@ The time-to-understand constraints: 2
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Review: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-07-07 | **Method:** SOLVE
+
+> **Scenario:** Sector: Cross-industry
+> 
+> Scenario: It is end of Week 1. Before you start Week 2 (formulas: SUM, AVERAGE, COUNTIFS, VLOOKUP), you need to know exactly which Excel skill still feels shaky. Week 2 builds directly on this week's foundation — a gap now becomes a compounding problem later.
+
+### S — Split the problem
+- 1. What week is this?
+2. What are you supposed to do before the start of week2?
+3. Do you know exactly which Excel skill still feels shaky on these formulas: (SUM, AVERAGE, COUNTIFS, VLOOKUP)?
+4. What week work  is week2 work built on ?
+5. What is the future consequence of a gap now?
+
+- 1. Audience: 2
+2. The data: 2
+
+- ok
+
+### O — Observe the data
+- Targets
+
+- Presentation-ready file.
+
+- Wrong Chart type
+
+### V — Verify your logic
+- Formula
+
+- SUM
+
+- Bad calculation
+
+### E — Evolve the solution
+- Clutter
+
+- Labels
+
+- Both are useful in there own way
 
 ---

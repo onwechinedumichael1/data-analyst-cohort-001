@@ -12,8 +12,8 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 24 Jun 2026, 18:37 |
-| Completed tasks | 10 |
+| Saved/updated | 07 Jul 2026 at 19:20 |
+| Completed tasks | 12 |
 | Lesson complete | Yes |
 
 ### What I Did
@@ -54,8 +54,8 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 27 Jun 2026, 11:10 |
-| Completed tasks | 9 |
+| Saved/updated | 07 Jul 2026 at 19:21 |
+| Completed tasks | 11 |
 | Lesson complete | Yes |
 
 ### What I Did
@@ -187,7 +187,7 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jun 2026, 07:53 |
+| Saved/updated | 28 Jun 2026 at 15:53 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -343,7 +343,7 @@ I used the filter query to filter from the highest to the lowest, after making t
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 18:04 |
+| Saved/updated | 05 Jul 2026 at 02:04 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -510,7 +510,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 18:12 |
+| Saved/updated | 05 Jul 2026 at 02:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -533,7 +533,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 11:54 |
+| Saved/updated | 06 Jul 2026 at 19:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -594,7 +594,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:24 |
+| Saved/updated | 07 Jul 2026 at 00:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -606,7 +606,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:51 |
+| Saved/updated | 07 Jul 2026 at 00:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -665,5 +665,19 @@ The time-to-understand constraints: 2
 - Labels
 
 - Both are useful in there own way
+
+---
+
+## Week 3: Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
+
+### Lesson 1: Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-learn` |
+| Phase | Excel |
+| Saved/updated | 07 Jul 2026 at 17:59 |
+| Completed tasks | 1 |
+| Lesson complete | In progress |
 
 ---

@@ -1,6 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 7 July 2026
+> Last updated: 10 July 2026
+
+## Summary
+
+- Track: Data Analyst Job-Ready
+- Weeks with evidence: 3
+- Lesson entries captured: 9
+
+| Week | Evidence entries | Completed | Last updated |
+| --- | ---: | ---: | --- |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 11:20 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 11:21 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 1 | 09 Jul 2026, 18:13 |
 
 ---
 
@@ -12,7 +24,7 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 07 Jul 2026 at 19:20 |
+| Saved/updated | 07 Jul 2026, 11:20 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -46,7 +58,7 @@
 
 ---
 
-## Week 2: Week 1: Workbook setup, tables, sorting, filtering, and named r
+## Week 1: Workbook setup, tables, sorting, filtering, and named r
 
 ### Lesson 1: Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
@@ -54,7 +66,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 19:21 |
+| Saved/updated | 07 Jul 2026, 11:21 |
 | Completed tasks | 11 |
 | Lesson complete | Yes |
 
@@ -187,7 +199,7 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jun 2026 at 15:53 |
+| Saved/updated | 28 Jun 2026, 07:53 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -343,7 +355,7 @@ I used the filter query to filter from the highest to the lowest, after making t
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026 at 02:04 |
+| Saved/updated | 04 Jul 2026, 18:04 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -510,7 +522,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026 at 02:12 |
+| Saved/updated | 04 Jul 2026, 18:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -533,7 +545,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026 at 19:54 |
+| Saved/updated | 06 Jul 2026, 11:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -594,7 +606,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 00:24 |
+| Saved/updated | 06 Jul 2026, 16:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -606,7 +618,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 00:51 |
+| Saved/updated | 06 Jul 2026, 16:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -668,7 +680,7 @@ The time-to-understand constraints: 2
 
 ---
 
-## Week 3: Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
+## Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
 
 ### Lesson 1: Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
@@ -676,8 +688,23 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 17:59 |
-| Completed tasks | 1 |
-| Lesson complete | In progress |
+| Saved/updated | 09 Jul 2026, 18:13 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
+- **Applied:** The exercise from todays concept clinic enlightened me on the the following
+- **Explained:** Data name, formats, types and structure.
+- **Verified:** Analyses and practices was carried out to ensure comprehension.
+- **Reflected:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
+- **Next proof:** ..... and solved the given tasks,
+- **Note:** Practices were carried out, and  an example of the worksheet show via this link:https://us.wps.com/l/cbEaahJ4p0EyCojI
+- **Note:** Was able to write one WHY sentence, before touch excel
+
+### To Explore Further
+
+
 
 ---

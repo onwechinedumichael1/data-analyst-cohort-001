@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 9
+- Lesson entries captured: 10
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 11:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 11:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 1 | 09 Jul 2026, 18:13 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 2 | 10 Jul 2026, 05:17 |
 
 ---
 
@@ -702,6 +702,22 @@ The time-to-understand constraints: 2
 - **Next proof:** ..... and solved the given tasks,
 - **Note:** Practices were carried out, and  an example of the worksheet show via this link:https://us.wps.com/l/cbEaahJ4p0EyCojI
 - **Note:** Was able to write one WHY sentence, before touch excel
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 2: Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-practice` |
+| Phase | Excel |
+| Saved/updated | 10 Jul 2026, 05:17 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### To Explore Further
 

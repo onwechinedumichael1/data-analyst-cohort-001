@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 11:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 11:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 2 | 10 Jul 2026, 05:24 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 2 | 10 Jul 2026, 05:28 |
 
 ---
 
@@ -715,7 +715,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 05:24 |
+| Saved/updated | 10 Jul 2026, 05:28 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -724,6 +724,9 @@ The time-to-understand constraints: 2
 - **Built:** I learnt the uses and applications of Formulas like
 - **Applied:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
 - **Explained:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
+- **Applied:** Todays skill was used to improve Commission calculator workbook
+- **Reflected:** The file, query, notebook produced was saved.
+- **Next proof:** And updated in the GitHub.
 
 ### To Explore Further
 

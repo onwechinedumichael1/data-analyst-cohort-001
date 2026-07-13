@@ -1,18 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 10 July 2026
+> Last updated: 14 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 10
+- Lesson entries captured: 11
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 11:20 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 11:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 2 | 10 Jul 2026, 05:28 |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 00:17 |
 
 ---
 
@@ -24,7 +24,7 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 07 Jul 2026, 11:20 |
+| Saved/updated | 07 Jul 2026, 19:20 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -66,7 +66,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 11:21 |
+| Saved/updated | 07 Jul 2026, 19:21 |
 | Completed tasks | 11 |
 | Lesson complete | Yes |
 
@@ -199,7 +199,7 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jun 2026, 07:53 |
+| Saved/updated | 28 Jun 2026, 15:53 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -355,7 +355,7 @@ I used the filter query to filter from the highest to the lowest, after making t
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 18:04 |
+| Saved/updated | 05 Jul 2026, 02:04 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -522,7 +522,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 04 Jul 2026, 18:12 |
+| Saved/updated | 05 Jul 2026, 02:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -545,7 +545,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 11:54 |
+| Saved/updated | 06 Jul 2026, 19:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -606,7 +606,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:24 |
+| Saved/updated | 07 Jul 2026, 00:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -618,7 +618,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:51 |
+| Saved/updated | 07 Jul 2026, 00:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -688,7 +688,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 09 Jul 2026, 18:13 |
+| Saved/updated | 10 Jul 2026, 02:13 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -715,7 +715,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 05:28 |
+| Saved/updated | 10 Jul 2026, 13:28 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -727,6 +727,28 @@ The time-to-understand constraints: 2
 - **Applied:** Todays skill was used to improve Commission calculator workbook
 - **Reflected:** The file, query, notebook produced was saved.
 - **Next proof:** And updated in the GitHub.
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 3: Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 00:17 |
+| Completed tasks | 2 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** First of all, copy the value, gently and paste in the cell (A1)
+- **Applied:** Changed the missing vale, the error value
+- **Verified:** And studied the rows and column brorher.
 
 ### To Explore Further
 

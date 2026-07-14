@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 14 Jul 2026, 18:47 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 14 Jul 2026, 19:17 |
 
 ---
 
@@ -813,7 +813,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 18:47 |
+| Saved/updated | 14 Jul 2026, 19:17 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -827,5 +827,48 @@ Time to understand constraints: 2
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-14 | **Method:** SOLVE
+
+> **Scenario:** Sector: Real Estate
+> 
+> Scenario: A London estate agency needs to review agent performance and postcode trends before their monthly board meeting. The director wants four specific answers about which agents are overpricing listings, which postcodes sell fastest, and whether 3-bed houses beat flats on margin.
+
+### S — Split the problem
+- 1. Clean workbook?
+2. Who are the audience?
+
+- 1. The Audience: 2.
+2. The dat: 1.
+3. The-to-understand constraint: 1
+
+- Save under notes/week-02.
+
+### O — Observe the data
+- Targets.
+
+- Presentation-ready file.
+
+- hidden raw issues
+
+### V — Verify your logic
+- Workbook output
+
+- Total Row count
+
+- unclear label
+
+### E — Evolve the solution
+- layout, labels, colour, chart choice, and clutter
+
+- Listing identified errors.
+
+- Journal
 
 ---

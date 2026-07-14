@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 17:41 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 14 Jul 2026, 18:40 |
 
 ---
 
@@ -740,9 +740,9 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 17:41 |
-| Completed tasks | 3 |
-| Lesson complete | In progress |
+| Saved/updated | 14 Jul 2026, 18:40 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 

@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 11:20 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 17:41 |
 
 ---
 
@@ -740,8 +740,8 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 11:20 |
-| Completed tasks | 2 |
+| Saved/updated | 14 Jul 2026, 17:41 |
+| Completed tasks | 3 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -755,5 +755,54 @@ The time-to-understand constraints: 2
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-14 | **Method:** SOLVE
+
+> **Scenario:** Sector: E-commerce
+> 
+> Scenario: An e-commerce operations manager has exported the product catalogue from the warehouse system. Before updating the website, you must find and fix every error — because a formula that returns #VALUE! in a price column will display nothing to customers, and a #DIV/0! in a margin calculation will crash the pricing report.
+
+### S — Split the problem
+- 1. What and how is the product catalogue
+2. What are the rows and columns involved in the export?
+3. What formulas are needed?
+4. Is any price missing?
+5. is the report correct?
+
+- Audience: 1
+Data: 4
+The visual decision: 4
+Time to understand constraints: 2
+
+- 1. Cleaned ?
+2. Dataset ?
+3. Saved?
+
+### O — Observe the data
+- Formulas, targets and actuals
+
+- Presentation ready file.
+
+- Hidden raw issues
+
+### V — Verify your logic
+- Identify each error, list and fix them.
+
+- Random Row checks and Total Row counts
+
+- unclear label, bad calculation, or clutter
+
+### E — Evolve the solution
+- clutter, labels, colour
+
+- journal push, Read me.
+
+- Journal and screenshot
 
 ---

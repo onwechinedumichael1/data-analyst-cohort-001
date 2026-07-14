@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 5 | 14 Jul 2026, 19:48 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 5 | 14 Jul 2026, 20:42 |
 
 ---
 
@@ -903,7 +903,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 19:48 |
+| Saved/updated | 14 Jul 2026, 20:42 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -918,5 +918,68 @@ Time to understand constraints: 2
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-14 | **Method:** SOLVE
+
+> **Scenario:** Sector: Multi-industry
+> 
+> Scenario: You have built a commission calculator, applied formulas to student grades, fixed e-commerce catalogue errors, analysed property performance, and built a production dashboard. A recruiter reading your GitHub now sees someone who can apply the same analytical toolkit across five completely different industries. That versatility is your edge.
+
+### S — Split the problem
+- 1. Is the dashboard clean?
+2. Are you a data analyst?
+3. Are you versatile?
+
+- 1. The data: 1
+2. The audience: 2
+3. The visual decision: 2.
+
+- Save it under notes.
+
+### O — Observe the data
+- targets
+
+- Presentation ready file
+
+- Unreadable labels
+
+### V — Verify your logic
+- Workbook output
+
+- Row counts, =SUM.
+
+- Bad calculation, unclear label.
+
+### E — Evolve the solution
+- Labels, Clutter
+
+- Notes.
+
+- Journal
+
+
+---
+<!-- framework:five-how -->
+
+## Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-14 | **Method:** 5-HOW
+
+> **Scenario:** Sector: Multi-industry
+> 
+> Scenario: You have built a commission calculator, applied formulas to student grades, fixed e-commerce catalogue errors, analysed property performance, and built a production dashboard. A recruiter reading your GitHub now sees someone who can apply the same analytical toolkit across five completely different industries. That versatility is your edge.
+
+### Write it — code the solution
+- Document every issues before fixing
+Total row counts
+Clean and
+fix
+
+- XLOOKUP
 
 ---

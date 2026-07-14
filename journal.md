@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 13
+- Lesson entries captured: 14
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 14 Jul 2026, 19:45 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 5 | 14 Jul 2026, 19:48 |
 
 ---
 
@@ -881,7 +881,7 @@ Time to understand constraints: 2
 | Phase | Excel |
 | Saved/updated | 14 Jul 2026, 19:45 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -890,6 +890,30 @@ Time to understand constraints: 2
 - **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence this visual should prove in 10 seconds
 - **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 19:48 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** Wrote a short README for Commission calculator workbook
+- **Built:** Added a screenshot or exported file as evidence
+- **Built:** Wrote one resume bullet point from this week's work
+- **Note:** Posted and updated via— LinkedIn, GitHub, or your learning log
+- **Note:** Updated or create the project README with problem, method, evidence, validation, limitation, and next step
 
 ### To Explore Further
 

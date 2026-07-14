@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 14
+- Lesson entries captured: 15
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 5 | 14 Jul 2026, 20:42 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 6 | 14 Jul 2026, 21:02 |
 
 ---
 
@@ -903,9 +903,9 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 20:42 |
+| Saved/updated | 14 Jul 2026, 20:45 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -981,5 +981,29 @@ Clean and
 fix
 
 - XLOOKUP
+
+---
+
+### Lesson 7: Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-review` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 21:02 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** Good with the application of these formulas
+- **Note:** COUNTIFS in counting duplicates
+- **Note:** nested IF to flag issues
+- **Note:** LOOKUP
+- **Note:** to validate against reference tables
+
+### To Explore Further
+
+
 
 ---

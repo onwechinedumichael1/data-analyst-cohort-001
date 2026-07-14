@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 12
+- Lesson entries captured: 13
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 3 | 14 Jul 2026, 19:17 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 5 | 4 | 14 Jul 2026, 19:45 |
 
 ---
 
@@ -813,9 +813,9 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 19:17 |
+| Saved/updated | 14 Jul 2026, 19:20 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -870,5 +870,29 @@ Time to understand constraints: 2
 - Listing identified errors.
 
 - Journal
+
+---
+
+### Lesson 5: Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-visualize` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 19:45 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** Built or improve one chart from this week's work
+- **Built:** Added a clear title, labelled axes, and remove clutter
+- **Note:** Picked the chart type that fits the data, not the default
+- **Built:** Wrote the one sentence this visual should prove in 10 seconds
+- **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step
+
+### To Explore Further
+
+
 
 ---

@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 00:17 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 14 Jul 2026, 11:20 |
 
 ---
 
@@ -31,10 +31,10 @@
 ### What I Did
 
 - **Built:** Created a free GitHub account
-- **Applied:** Install VS Code on my computer
-- **Explained:** I Installed Git
+- **Note:** Install VS Code on my computer
+- **Note:** I Installed Git
 - **Built:** I Created your portfolio repo on GitHub
-- **Reflected:** I Cloned the repo into VS Code
+- **Note:** I Cloned the repo into VS Code
 - **Built:** I Created your evidence folders
 - **Note:** I Set up Excel or Google Sheets
 - **Note:** I Connected Qode Clarity to your repo
@@ -72,11 +72,11 @@
 
 ### What I Did
 
-- **Built:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-- **Applied:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-- **Explained:** Paste the 8-row sample data into cell A1 of RawTransactions
-- **Verified:** Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
-- **Reflected:** Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
+- **Note:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Note:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Note:** Paste the 8-row sample data into cell A1 of RawTransactions
+- **Note:** Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
+- **Note:** Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
 - **Verified:** Filter Status to Pending and Review only — confirm 4 of 8 rows visible
 - **Note:** Name the Amount column TransactionAmounts and the Status column ReviewStatus
 - **Verified:** In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
@@ -205,12 +205,12 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 
 ### What I Did
 
-- **Built:** I read the scenario carefully, to ensure I made no mistakes with the instructions
-- **Applied:** I copied the data
-- **Explained:** I opened an Excel workbook
-- **Verified:** I pasted the copied data into the A1
+- **Note:** I read the scenario carefully, to ensure I made no mistakes with the instructions
+- **Note:** I copied the data
+- **Note:** I opened an Excel workbook
+- **Note:** I pasted the copied data into the A1
 - **Built:** I created 2 extra sheets and renamed the the sheet1 Raw sheet, the sheet2 was renamed Tracker and the Sheet3 was renamed Notes.
-- **Next proof:** Renaming the sheets is to know the sheet that i will use for workings, while the Raw sheet will not be touched at all to avoid editing the original data, incase I need it later .
+- **Note:** Renaming the sheets is to know the sheet that i will use for workings, while the Raw sheet will not be touched at all to avoid editing the original data, incase I need it later .
 
 ### To Explore Further
 
@@ -361,12 +361,12 @@ I used the filter query to filter from the highest to the lowest, after making t
 
 ### What I Did
 
-- **Built:** I learnt how to clean messy data table and make it error free for analysis
+- **Note:** I learnt how to clean messy data table and make it error free for analysis
 - **Why it matters:** I learnt how to fix each issue and log what I changed and the importance of doing so for business
-- **Explained:** I learnt that it is important to keep the before and after version of the cleaning data
-- **Verified:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
-- **Reflected:** I studied what data is all about, how to describe data, Data name, formats, types and structure.
-- **Next proof:** Studied Data life cycle
+- **Note:** I learnt that it is important to keep the before and after version of the cleaning data
+- **Note:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
+- **Note:** I studied what data is all about, how to describe data, Data name, formats, types and structure.
+- **Note:** Studied Data life cycle
 - **Note:** as (Collect, Store, Prepare, Analyse, Visualise Decide, Archive)
 - **Note:** Classify data. judge data quality
 - **Note:** Differentiate between data and information
@@ -528,8 +528,8 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 
 ### What I Did
 
-- **Built:** I answered three business questions using branch transactions tracker workbook
-- **Applied:** I showed the exact formula, query, or code for each answer.
+- **Note:** I answered three business questions using branch transactions tracker workbook
+- **Note:** I showed the exact formula, query, or code for each answer.
 - **Built:** I wrote each answer in one plain sentence
 - **Built:** I wrote one limitation of my analysis
 
@@ -552,11 +552,11 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 ### What I Did
 
 - **Built:** I built a chart
-- **Applied:** The chart is presented with line chart with markers, only A&E data plus Paediatrics when I did the stretch task appeard
-- **Explained:** I changed the title: A&E average wait times are failing-6- month trend
-- **Verified:** I named the Y-axis: Minutes
-- **Reflected:** Data label only on June (141 min)
-- **Next proof:** The chart has no gridlines, no chart border, A&E line is red and Paediatrics line is blue
+- **Note:** The chart is presented with line chart with markers, only A&E data plus Paediatrics when I did the stretch task appeard
+- **Note:** I changed the title: A&E average wait times are failing-6- month trend
+- **Note:** I named the Y-axis: Minutes
+- **Note:** Data label only on June (141 min)
+- **Note:** The chart has no gridlines, no chart border, A&E line is red and Paediatrics line is blue
 - **Note:** The chart link: https://us.wps.com/l/cbEaauu4xISE0PmM
 
 ### To Explore Further
@@ -624,9 +624,9 @@ The time-to-understand constraints: 2
 
 ### What I Did
 
-- **Built:** I revised the previous days activities, practised tasks and updated my practice notes with a new targets
-- **Applied:** Rated my confidence on each main skill
-- **Explained:** Identified gaps to fill.
+- **Note:** I revised the previous days activities, practised tasks and updated my practice notes with a new targets
+- **Note:** Rated my confidence on each main skill
+- **Note:** Identified gaps to fill.
 - **Built:** Created the project README with problem, method, evidence, validation, and limitations
 
 ### To Explore Further
@@ -694,12 +694,12 @@ The time-to-understand constraints: 2
 
 ### What I Did
 
-- **Built:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
-- **Applied:** The exercise from todays concept clinic enlightened me on the the following
-- **Explained:** Data name, formats, types and structure.
-- **Verified:** Analyses and practices was carried out to ensure comprehension.
-- **Reflected:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
-- **Next proof:** ..... and solved the given tasks,
+- **Note:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
+- **Note:** The exercise from todays concept clinic enlightened me on the the following
+- **Note:** Data name, formats, types and structure.
+- **Note:** Analyses and practices was carried out to ensure comprehension.
+- **Note:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
+- **Note:** ..... and solved the given tasks,
 - **Note:** Practices were carried out, and  an example of the worksheet show via this link:https://us.wps.com/l/cbEaahJ4p0EyCojI
 - **Note:** Was able to write one WHY sentence, before touch excel
 
@@ -721,12 +721,12 @@ The time-to-understand constraints: 2
 
 ### What I Did
 
-- **Built:** I learnt the uses and applications of Formulas like
-- **Applied:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
-- **Explained:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
+- **Note:** I learnt the uses and applications of Formulas like
+- **Note:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
+- **Note:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
 - **Applied:** Todays skill was used to improve Commission calculator workbook
-- **Reflected:** The file, query, notebook produced was saved.
-- **Next proof:** And updated in the GitHub.
+- **Note:** The file, query, notebook produced was saved.
+- **Note:** And updated in the GitHub.
 
 ### To Explore Further
 
@@ -740,15 +740,17 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 00:17 |
+| Saved/updated | 14 Jul 2026, 11:20 |
 | Completed tasks | 2 |
 | Lesson complete | In progress |
 
 ### What I Did
 
-- **Built:** First of all, copy the value, gently and paste in the cell (A1)
-- **Applied:** Changed the missing vale, the error value
+- **Note:** First of all, copy the value, gently and paste in the cell (A1)
+- **Note:** searched for the missing vale, the error value
 - **Verified:** And studied the rows and column brorher.
+- **Note:** In todays concept clinic, we were thought on how to create PR, and, and that there are 2 different .
+- **Note:** Also we practiced on GitHub parameters, git pull, git push, git commit, among others.
 
 ### To Explore Further
 

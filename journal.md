@@ -1067,7 +1067,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026 at 20:38 |
+| Saved/updated | 16 Jul 2026 at 21:10 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 

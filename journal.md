@@ -1,6 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 16 July 2026
+> Last updated: 17 July 2026
+
+## Summary
+
+- Track: Data Analyst Job-Ready
+- Weeks with evidence: 4
+- Lesson entries captured: 18
+
+| Week | Evidence entries | Completed | Last updated |
+| --- | ---: | ---: | --- |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 2 | 17 Jul 2026, 16:14 |
 
 ---
 
@@ -12,17 +25,17 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 07 Jul 2026 at 19:20 |
+| Saved/updated | 07 Jul 2026, 19:20 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
 ### What I Did
 
 - **Built:** Created a free GitHub account
-- **Applied:** Install VS Code on my computer
-- **Explained:** I Installed Git
+- **Note:** Install VS Code on my computer
+- **Note:** I Installed Git
 - **Built:** I Created your portfolio repo on GitHub
-- **Reflected:** I Cloned the repo into VS Code
+- **Note:** I Cloned the repo into VS Code
 - **Built:** I Created your evidence folders
 - **Note:** I Set up Excel or Google Sheets
 - **Note:** I Connected Qode Clarity to your repo
@@ -46,7 +59,7 @@
 
 ---
 
-## Week 2: Week 1: Workbook setup, tables, sorting, filtering, and named r
+## Week 1: Workbook setup, tables, sorting, filtering, and named r
 
 ### Lesson 1: Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
@@ -54,17 +67,17 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 19:21 |
+| Saved/updated | 07 Jul 2026, 19:21 |
 | Completed tasks | 11 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-- **Applied:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
-- **Explained:** Paste the 8-row sample data into cell A1 of RawTransactions
-- **Verified:** Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
-- **Reflected:** Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
+- **Note:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Note:** Create week-01-branch-transactions.xlsx with three sheets: RawTransactions, Tracker, Notes
+- **Note:** Paste the 8-row sample data into cell A1 of RawTransactions
+- **Note:** Copy the data to Tracker → Ctrl+T → name the table TransactionsTable
+- **Note:** Sort TransactionsTable by Amount, largest first — confirm TXN007 (£12,500) is row 1
 - **Verified:** Filter Status to Pending and Review only — confirm 4 of 8 rows visible
 - **Note:** Name the Amount column TransactionAmounts and the Status column ReviewStatus
 - **Verified:** In cell J1 of Tracker: =SUM(TransactionAmounts) — confirm result is 30010
@@ -187,18 +200,18 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jun 2026 at 15:53 |
+| Saved/updated | 28 Jun 2026, 15:53 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I read the scenario carefully, to ensure I made no mistakes with the instructions
-- **Applied:** I copied the data
-- **Explained:** I opened an Excel workbook
-- **Verified:** I pasted the copied data into the A1
+- **Note:** I read the scenario carefully, to ensure I made no mistakes with the instructions
+- **Note:** I copied the data
+- **Note:** I opened an Excel workbook
+- **Note:** I pasted the copied data into the A1
 - **Built:** I created 2 extra sheets and renamed the the sheet1 Raw sheet, the sheet2 was renamed Tracker and the Sheet3 was renamed Notes.
-- **Next proof:** Renaming the sheets is to know the sheet that i will use for workings, while the Raw sheet will not be touched at all to avoid editing the original data, incase I need it later .
+- **Note:** Renaming the sheets is to know the sheet that i will use for workings, while the Raw sheet will not be touched at all to avoid editing the original data, incase I need it later .
 
 ### To Explore Further
 
@@ -343,18 +356,18 @@ I used the filter query to filter from the highest to the lowest, after making t
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026 at 02:04 |
+| Saved/updated | 05 Jul 2026, 02:04 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I learnt how to clean messy data table and make it error free for analysis
+- **Note:** I learnt how to clean messy data table and make it error free for analysis
 - **Why it matters:** I learnt how to fix each issue and log what I changed and the importance of doing so for business
-- **Explained:** I learnt that it is important to keep the before and after version of the cleaning data
-- **Verified:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
-- **Reflected:** I studied what data is all about, how to describe data, Data name, formats, types and structure.
-- **Next proof:** Studied Data life cycle
+- **Note:** I learnt that it is important to keep the before and after version of the cleaning data
+- **Note:** I learnt that it is important to save the cleaned version of the work separately from the messy one.
+- **Note:** I studied what data is all about, how to describe data, Data name, formats, types and structure.
+- **Note:** Studied Data life cycle
 - **Note:** as (Collect, Store, Prepare, Analyse, Visualise Decide, Archive)
 - **Note:** Classify data. judge data quality
 - **Note:** Differentiate between data and information
@@ -510,14 +523,14 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026 at 02:12 |
+| Saved/updated | 05 Jul 2026, 02:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I answered three business questions using branch transactions tracker workbook
-- **Applied:** I showed the exact formula, query, or code for each answer.
+- **Note:** I answered three business questions using branch transactions tracker workbook
+- **Note:** I showed the exact formula, query, or code for each answer.
 - **Built:** I wrote each answer in one plain sentence
 - **Built:** I wrote one limitation of my analysis
 
@@ -533,18 +546,18 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026 at 19:54 |
+| Saved/updated | 06 Jul 2026, 19:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
 - **Built:** I built a chart
-- **Applied:** The chart is presented with line chart with markers, only A&E data plus Paediatrics when I did the stretch task appeard
-- **Explained:** I changed the title: A&E average wait times are failing-6- month trend
-- **Verified:** I named the Y-axis: Minutes
-- **Reflected:** Data label only on June (141 min)
-- **Next proof:** The chart has no gridlines, no chart border, A&E line is red and Paediatrics line is blue
+- **Note:** The chart is presented with line chart with markers, only A&E data plus Paediatrics when I did the stretch task appeard
+- **Note:** I changed the title: A&E average wait times are failing-6- month trend
+- **Note:** I named the Y-axis: Minutes
+- **Note:** Data label only on June (141 min)
+- **Note:** The chart has no gridlines, no chart border, A&E line is red and Paediatrics line is blue
 - **Note:** The chart link: https://us.wps.com/l/cbEaauu4xISE0PmM
 
 ### To Explore Further
@@ -594,7 +607,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 00:24 |
+| Saved/updated | 07 Jul 2026, 00:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -606,15 +619,15 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026 at 00:51 |
+| Saved/updated | 07 Jul 2026, 00:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I revised the previous days activities, practised tasks and updated my practice notes with a new targets
-- **Applied:** Rated my confidence on each main skill
-- **Explained:** Identified gaps to fill.
+- **Note:** I revised the previous days activities, practised tasks and updated my practice notes with a new targets
+- **Note:** Rated my confidence on each main skill
+- **Note:** Identified gaps to fill.
 - **Built:** Created the project README with problem, method, evidence, validation, and limitations
 
 ### To Explore Further
@@ -668,7 +681,7 @@ The time-to-understand constraints: 2
 
 ---
 
-## Week 3: Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
+## Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
 
 ### Lesson 1: Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
@@ -676,18 +689,18 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026 at 02:13 |
+| Saved/updated | 10 Jul 2026, 02:13 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
-- **Applied:** The exercise from todays concept clinic enlightened me on the the following
-- **Explained:** Data name, formats, types and structure.
-- **Verified:** Analyses and practices was carried out to ensure comprehension.
-- **Reflected:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
-- **Next proof:** ..... and solved the given tasks,
+- **Note:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
+- **Note:** The exercise from todays concept clinic enlightened me on the the following
+- **Note:** Data name, formats, types and structure.
+- **Note:** Analyses and practices was carried out to ensure comprehension.
+- **Note:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
+- **Note:** ..... and solved the given tasks,
 - **Note:** Practices were carried out, and  an example of the worksheet show via this link:https://us.wps.com/l/cbEaahJ4p0EyCojI
 - **Note:** Was able to write one WHY sentence, before touch excel
 
@@ -703,18 +716,18 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026 at 13:28 |
+| Saved/updated | 10 Jul 2026, 13:28 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I learnt the uses and applications of Formulas like
-- **Applied:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
-- **Explained:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
+- **Note:** I learnt the uses and applications of Formulas like
+- **Note:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
+- **Note:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
 - **Applied:** Todays skill was used to improve Commission calculator workbook
-- **Reflected:** The file, query, notebook produced was saved.
-- **Next proof:** And updated in the GitHub.
+- **Note:** The file, query, notebook produced was saved.
+- **Note:** And updated in the GitHub.
 
 ### To Explore Further
 
@@ -728,17 +741,17 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026 at 18:40 |
+| Saved/updated | 14 Jul 2026, 18:40 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** First of all, copy the value, gently and paste in the cell (A1)
-- **Applied:** searched for the missing vale, the error value
+- **Note:** First of all, copy the value, gently and paste in the cell (A1)
+- **Note:** searched for the missing vale, the error value
 - **Verified:** And studied the rows and column brorher.
-- **Verified:** In todays concept clinic, we were thought on how to create PR, and, and that there are 2 different .
-- **Reflected:** Also we practiced on GitHub parameters, git pull, git push, git commit, among others.
+- **Note:** In todays concept clinic, we were thought on how to create PR, and, and that there are 2 different .
+- **Note:** Also we practiced on GitHub parameters, git pull, git push, git commit, among others.
 
 ### To Explore Further
 
@@ -801,14 +814,14 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026 at 19:20 |
+| Saved/updated | 14 Jul 2026, 19:20 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** Answered three business questions using Commission calculator workbook
-- **Applied:** Showed the exact formula, query, or code for each answer
+- **Note:** Answered three business questions using Commission calculator workbook
+- **Note:** Showed the exact formula, query, or code for each answer
 - **Built:** Wrote each answer in one plain sentence
 - **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step
 
@@ -867,7 +880,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-visualize` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026 at 19:45 |
+| Saved/updated | 14 Jul 2026, 19:45 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -875,7 +888,7 @@ Time to understand constraints: 2
 
 - **Built:** Built or improve one chart from this week's work
 - **Built:** Added a clear title, labelled axes, and remove clutter
-- **Explained:** Picked the chart type that fits the data, not the default
+- **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence this visual should prove in 10 seconds
 - **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step
 
@@ -891,7 +904,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026 at 20:45 |
+| Saved/updated | 14 Jul 2026, 20:45 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -900,8 +913,8 @@ Time to understand constraints: 2
 - **Built:** Wrote a short README for Commission calculator workbook
 - **Built:** Added a screenshot or exported file as evidence
 - **Built:** Wrote one resume bullet point from this week's work
-- **Verified:** Posted and updated via— LinkedIn, GitHub, or your learning log
-- **Reflected:** Updated or create the project README with problem, method, evidence, validation, limitation, and next step
+- **Note:** Posted and updated via— LinkedIn, GitHub, or your learning log
+- **Note:** Updated or create the project README with problem, method, evidence, validation, limitation, and next step
 
 ### To Explore Further
 
@@ -978,17 +991,17 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-02-review` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026 at 21:02 |
+| Saved/updated | 14 Jul 2026, 21:02 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** Good with the application of these formulas
-- **Applied:** COUNTIFS in counting duplicates
-- **Explained:** nested IF to flag issues
-- **Verified:** LOOKUP
-- **Reflected:** to validate against reference tables
+- **Note:** Good with the application of these formulas
+- **Note:** COUNTIFS in counting duplicates
+- **Note:** nested IF to flag issues
+- **Note:** LOOKUP
+- **Note:** to validate against reference tables
 
 ### To Explore Further
 
@@ -996,7 +1009,7 @@ fix
 
 ---
 
-## Week 4: Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns
+## Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns
 
 ### Lesson 1: Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
 
@@ -1004,18 +1017,18 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026 at 19:54 |
+| Saved/updated | 17 Jul 2026, 15:14 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** Copied and pasted the raw export into RawExport sheet of week-03-customer-cleanup.xlsx
+- **Note:** Copied and pasted the raw export into RawExport sheet of week-03-customer-cleanup.xlsx
 - **Built:** Created CleanedCustomers sheet — all formulas reference RawExport
-- **Explained:** DuplicateFlag column: =COUNTIF($A$2:$A$9,A2) — highlight any >1 in red
-- **Verified:** CleanName: =TRIM(PROPER(RawExport!B2)) → paste as Values → confirm C001 = 'John Smith'
-- **Reflected:** CleanEmail: =LOWER(TRIM(RawExport!C2)) — confirm C001 = 'john.smith@email.com'
-- **Next proof:** Text-to-Columns on CityPostcode → split into City and Postcode — confirm Manchester + M1 2AB
+- **Note:** DuplicateFlag column: =COUNTIF($A$2:$A$9,A2) — highlight any >1 in red
+- **Note:** CleanName: =TRIM(PROPER(RawExport!B2)) → paste as Values → confirm C001 = 'John Smith'
+- **Note:** CleanEmail: =LOWER(TRIM(RawExport!C2)) — confirm C001 = 'john.smith@email.com'
+- **Note:** Text-to-Columns on CityPostcode → split into City and Postcode — confirm Manchester + M1 2AB
 - **Applied:** CleanSignupDate: used DATEVALUE to convert all 5 date formats to a date serial
 - **Note:** Deleted the duplicate C001 row — confirm 7 unique records remain
 - **Note:** Add Data Validation to SignupDate: Date between 01/01/2020 and today
@@ -1035,7 +1048,7 @@ fix
 <!-- framework:solve -->
 
 ## Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
-**Completed:** 2026-07-16 | **Method:** SOLVE
+**Completed:** 2026-07-17 | **Method:** SOLVE
 
 > **Scenario:** Sector: Telecoms
 > 
@@ -1045,7 +1058,21 @@ fix
 - 1. what data was exported from the CRM for  Q3 campaign?
 2. What names contain leading or trailing spaces that need trimming?
 3. Which email addresses are in all caps and need standardising?
-4
+4. Which cell contains the city and the post code, and how should they be spilt into separate columns?
+5. What date formats are inconsistent, and what format should be used in all?
+6. Which record is duplicate that one should be deleted?
+7. Is the cleaned dataset ready for the marketing team to import?
+
+- 1. Audience: The marketing team.
+2. The data: 8 subscriber records exported from the CRM for Q3 campaign
+3. The visual decision: Clean the data by removing the issues (remove duplicates, trimming spaces, standardising email cases and date formats to a consistent one, spliting the city from the postcode into different columns).
+4. Time to understand the constraints: Fix everything before the marketing team imports it.
+
+- 1. How do I create a CleanedCustomers sheet while keeping RawExport unchanged?
+2. How do I remove the duplicate so the cleaned sheet contains 7 unique rows?
+3. How do I split the City/Postcode column into two separate columns?
+4. How do I standardise all dates into one consistent format?
+5. How do I check that names, emails, dates, and validation rules are correct before saving the workbook as week-03-customer-cleanup.xlsx?
 
 ---
 
@@ -1055,9 +1082,21 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-practice` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026 at 18:57 |
+| Saved/updated | 17 Jul 2026, 16:14 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** Completed a hands-on exercise applying Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+- **Applied:** Used today's skill to improve my Messy customer export cleanup
+- **Note:** Saved the file, query, or notebook produced
+- **Built:** Wrote one sentence on what the output actually shows
+- **Note:** Updated or create the project README with problem, method, evidence, validation, limitation, and next step
+
+### To Explore Further
+
+
 
 ---
 
@@ -1067,7 +1106,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 16 Jul 2026 at 21:10 |
+| Saved/updated | 16 Jul 2026, 21:10 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1075,9 +1114,9 @@ fix
 
 - **Verified:** Checked for missing values, duplicates, wrong types, and bad dates
 - **Why it matters:** Fixed each issue and log what you changed and why
-- **Explained:** Recorded a before/after row count
-- **Verified:** Saved the cleaned version separately from the raw file
-- **Reflected:** Update or create the project README with problem, method, evidence, validation, limitation, and next step
+- **Note:** Recorded a before/after row count
+- **Note:** Saved the cleaned version separately from the raw file
+- **Note:** Update or create the project README with problem, method, evidence, validation, limitation, and next step
 
 ### To Explore Further
 

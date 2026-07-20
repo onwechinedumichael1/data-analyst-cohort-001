@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 5 | 20 Jul 2026, 17:11 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 5 | 20 Jul 2026, 17:13 |
 
 ---
 
@@ -1154,7 +1154,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-visualize` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 17:11 |
+| Saved/updated | 20 Jul 2026, 17:13 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1165,6 +1165,10 @@ fix
 - **Applied:** Formula used: =IF(D2>C2*1.05,"Exceeded",IF(D2>=C2,"Met",IF(D2>=C2*0.9,"Near","Below")))
 - **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence this visual should prove in 10 seconds
+- **Verified:** 8 rows	 4 columns
+- **Note:** Met Traget: R6, R1, R6
+- **Note:** Exceeded Targets: R1, R4, R8
+- **Note:** Below Target (Immediate Attention): R2, R5
 - **Note:** Screenshot attached
 - **Note:** This is the link and evidence of the work, showing all stated above: https://us.wps.com/cms/docs/d/cbEaagh8VOz0MNQz
 - **Built:** Updated or created the project README with problem, method, evidence, limitation, and the next step

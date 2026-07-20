@@ -6,14 +6,14 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 20
+- Lesson entries captured: 21
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 5 | 20 Jul 2026, 17:16 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 6 | 20 Jul 2026, 23:04 |
 
 ---
 
@@ -1172,6 +1172,30 @@ fix
 - **Note:** Screenshot attached
 - **Note:** This is the link and evidence of the work, showing all stated above: https://us.wps.com/cms/docs/d/cbEaagh8VOz0MNQz
 - **Built:** Updated or created the project README with problem, method, evidence, limitation, and the next step
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 20 Jul 2026, 23:04 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I wrote a short README for easy messy customer export cleanup
+- **Built:** Added a screen or exported file as evidence
+- **Built:** Wrote one resume bullet point from this week`s evidence
+- **Note:** Posted a short update on Linkedln, Github or my learning log
+- **Note:** Updated the project README with problem, method, evidence, validation, limitation, and next step
 
 ### To Explore Further
 

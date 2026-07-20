@@ -1,19 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 17 July 2026
+> Last updated: 20 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 18
+- Lesson entries captured: 19
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 2 | 17 Jul 2026, 18:26 |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026 at 19:20 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026 at 19:21 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026 at 21:02 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 20 Jul 2026 at 08:18 |
 
 ---
 
@@ -25,7 +25,7 @@
 | --- | --- |
 | Lesson slug | `da-setup-day-1` |
 | Phase | Setup |
-| Saved/updated | 07 Jul 2026, 19:20 |
+| Saved/updated | 07 Jul 2026 at 19:20 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -67,7 +67,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 19:21 |
+| Saved/updated | 07 Jul 2026 at 19:21 |
 | Completed tasks | 11 |
 | Lesson complete | Yes |
 
@@ -200,7 +200,7 @@ The raw sheet acts as a backup and a reliable source of data. If I edited the ra
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 28 Jun 2026, 15:53 |
+| Saved/updated | 28 Jun 2026 at 15:53 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -356,7 +356,7 @@ I used the filter query to filter from the highest to the lowest, after making t
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 02:04 |
+| Saved/updated | 05 Jul 2026 at 02:04 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -523,7 +523,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 02:12 |
+| Saved/updated | 05 Jul 2026 at 02:12 |
 | Completed tasks | 4 |
 | Lesson complete | Yes |
 
@@ -546,7 +546,7 @@ I opened the messy payroll data, studied it to identify the mess, I will start w
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 19:54 |
+| Saved/updated | 06 Jul 2026 at 19:54 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -607,7 +607,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 00:24 |
+| Saved/updated | 07 Jul 2026 at 00:24 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -619,7 +619,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 07 Jul 2026, 00:51 |
+| Saved/updated | 07 Jul 2026 at 00:51 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -689,7 +689,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 02:13 |
+| Saved/updated | 10 Jul 2026 at 02:13 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -716,7 +716,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 13:28 |
+| Saved/updated | 10 Jul 2026 at 13:28 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -741,7 +741,7 @@ The time-to-understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 18:40 |
+| Saved/updated | 14 Jul 2026 at 18:40 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -814,7 +814,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-analyze` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 19:20 |
+| Saved/updated | 14 Jul 2026 at 19:20 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -880,7 +880,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-visualize` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 19:45 |
+| Saved/updated | 14 Jul 2026 at 19:45 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -904,7 +904,7 @@ Time to understand constraints: 2
 | --- | --- |
 | Lesson slug | `da-week-02-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 20:45 |
+| Saved/updated | 14 Jul 2026 at 20:45 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -991,7 +991,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-02-review` |
 | Phase | Excel |
-| Saved/updated | 14 Jul 2026, 21:02 |
+| Saved/updated | 14 Jul 2026 at 21:02 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1017,7 +1017,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
-| Saved/updated | 17 Jul 2026, 15:14 |
+| Saved/updated | 17 Jul 2026 at 15:14 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -1082,7 +1082,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-practice` |
 | Phase | Excel |
-| Saved/updated | 17 Jul 2026, 18:14 |
+| Saved/updated | 17 Jul 2026 at 18:14 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1106,9 +1106,9 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 17 Jul 2026, 18:26 |
+| Saved/updated | 17 Jul 2026 at 18:33 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1117,6 +1117,30 @@ fix
 - **Note:** Recorded a before/after row count
 - **Note:** Saved the cleaned version separately from the raw file
 - **Note:** Update or create the project README with problem, method, evidence, validation, limitation, and next step
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 4: Analyze: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-analyze` |
+| Phase | Excel |
+| Saved/updated | 20 Jul 2026 at 08:18 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I Answered three business questions using Messy customer export cleanup
+- **Note:** Showed the exact formula, query, or code for each answer
+- **Built:** Wrote each answer in one plain sentence
+- **Built:** Wrote one limitation of the analysis
+- **Note:** Updated or create the project README with problem, method, evidence, validation, limitation and next step
 
 ### To Explore Further
 

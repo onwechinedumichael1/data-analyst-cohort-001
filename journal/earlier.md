@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 07 Jul 2026, 19:20 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 5 | 20 Jul 2026, 17:09 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 5 | 20 Jul 2026, 17:11 |
 
 ---
 
@@ -1154,7 +1154,7 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-03-visualize` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 17:09 |
+| Saved/updated | 20 Jul 2026, 17:11 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1162,6 +1162,7 @@ fix
 
 - **Built:** I built or improved one chart from this week`s work
 - **Built:** I added a clear title, labelled axes, and removed clutter
+- **Applied:** Formula used: =IF(D2>C2*1.05,"Exceeded",IF(D2>=C2,"Met",IF(D2>=C2*0.9,"Near","Below")))
 - **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence this visual should prove in 10 seconds
 - **Note:** Screenshot attached

@@ -9,3 +9,8 @@
 - **Task or topic:** Daily task evidence
 - **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg)
 - **Logged at:** 2026-07-22 16:54 UTC
+
+### 2026-07-20 — Notes
+
+- **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx)
+- **Logged at:** 2026-07-22 16:59 UTC

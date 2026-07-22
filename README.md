@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**19 days logged &middot; 0 weeks &middot; 1-day streak &middot; last activity 2026-07-20**
+**20 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-07-22**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| — | — | — | Save a journal entry to populate this table |
+| 2026-07-20 | Daily Tasks | Daily task evidence | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg) |
 
 Full journal: [journal/index.md](journal/index.md)
 

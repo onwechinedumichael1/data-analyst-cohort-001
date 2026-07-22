@@ -13,6 +13,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
 | 2026-07-20 | Daily Tasks | Daily task evidence | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg) |
+| 2026-07-20 | Daily Tasks | Daily Tasks | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx) |
 
 Full journal: [journal/index.md](journal/index.md)
 

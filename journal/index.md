@@ -5,7 +5,7 @@ Newest week first. Each week links to its own page.
 | Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Week 9999 | 16 | – | – | – | – | – | [open](week-9999.md) |
-| Week 4 | 3 | – | – | – | – | – | [open](week-04.md) |
+| Week 4 | 4 | – | – | – | – | – | [open](week-04.md) |
 | Week 3 | 1 | – | – | – | – | – | [open](week-03.md) |
 | Week 2 | 3 | – | – | – | – | – | [open](week-02.md) |
 | Week 1 | 2 | – | – | – | – | – | [open](week-01.md) |

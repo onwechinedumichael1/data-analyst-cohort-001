@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**23 days logged &middot; 0 weeks &middot; 1-day streak &middot; last activity 2026-08-03**
+**23 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-03**
 
 ## Latest Proof
 
@@ -12,7 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| — | — | — | Save a journal entry to populate this table |
+| 03 Aug 2026, 02:20 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 02:27 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 17:28 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
+| 20 Jul 2026, 08:19 | Lesson | Analyze: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+| 20 Jul 2026, 17:16 | Lesson | Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+| 20 Jul 2026, 23:23 | Lesson | Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+| 20 Jul 2026, 23:20 | Lesson | Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+| 17 Jul 2026, 18:14 | Lesson | Practice: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 

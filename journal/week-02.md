@@ -1,21 +1,50 @@
-# Week 2: The Messy Monday Export — Week 2 Data Quality Hackathon
+# Week 2
 
 [← Back to journal index](index.md)
 
-## Daily Tasks
+## Lessons — 3/3 complete
 
-### 2026-07-20 — Daily task evidence
+| Lesson | Status | Tasks done | Updated |
+| --- | --- | --- | --- |
+| Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 12 | 10 Jul 2026, 02:13 |
+| Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 10 Jul 2026, 13:28 |
+| Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 18:40 |
 
-- **Task or topic:** Daily task evidence
-- **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/week3.jpeg)
-- **Logged at:** 2026-07-22 16:54 UTC
+### Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
-### 2026-07-20 — Notes
+**What I did**
 
-- **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/Week-03-.xlsx)
-- **Logged at:** 2026-07-22 16:59 UTC
+- **Note:** In today`s concept clinic, Titled Understanding Data, data was defined, explained, and classify, Mapping of the lifecycle of data, and judge data quality.
+- **Note:** The exercise from todays concept clinic enlightened me on the the following
+- **Note:** Data name, formats, types and structure.
+- **Note:** Analyses and practices was carried out to ensure comprehension.
+- **Note:** The daily 1hr practice, was on ........today and the exercise exposed me to the following
+- **Note:** ..... and solved the given tasks,
+- **Note:** Practices were carried out, and  an example of the worksheet show via this link:https://us.wps.com/l/cbEaahJ4p0EyCojI
+- **Note:** Was able to write one WHY sentence, before touch excel
 
-### 2026-07-26 — Notes
+### Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
-- **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/pivot.JPG](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-tasks/pivot.JPG)
-- **Logged at:** 2026-07-26 00:49 UTC
+**What I did**
+
+- **Note:** I learnt the uses and applications of Formulas like
+- **Note:** SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP.
+- **Note:** These exercises was carried out using real life scenario,  making the learning, practice worthy.
+- **Applied:** Todays skill was used to improve Commission calculator workbook
+- **Note:** The file, query, notebook produced was saved.
+- **Note:** And updated in the GitHub.
+
+### Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+**What I did**
+
+- **Note:** First of all, copy the value, gently and paste in the cell (A1)
+- **Note:** searched for the missing vale, the error value
+- **Verified:** And studied the rows and column brorher.
+- **Note:** In todays concept clinic, we were thought on how to create PR, and, and that there are 2 different .
+- **Note:** Also we practiced on GitHub parameters, git pull, git push, git commit, among others.
+
+**Practice work**
+
+---
+<!-- framework:solve -->

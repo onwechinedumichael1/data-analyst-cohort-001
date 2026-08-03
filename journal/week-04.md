@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 13 | 03 Aug 2026, 02:20 |
 | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 02:27 |
 | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:28 |
-| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 17:51 |
+| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:52 |
+| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 18:02 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
@@ -50,3 +51,13 @@
 - **Built:** I wrote each answer in a plain sentence
 - **Built:** Wrote one limitation of my analysis
 - **Note:** Updated the project README with problem, method, evidence, validation, and next status need to be done
+
+### Visualize: Pivot tables, pivot charts, slicers, and a one-page management report
+
+**What I did**
+
+- **Built:** I built one char from this week`s work
+- **Built:** I added a clear title, labelled the dara aünpropriately
+- **Note:** Picked the chart that fits visual should prove in 10
+- **Built:** I wrote the one sentence this visual proves in 10seconds
+- **Note:** I updated the project README with problem, method, evidence, validation, limitation and the next steo.

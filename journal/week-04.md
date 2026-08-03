@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,9 @@
 | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 02:27 |
 | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:28 |
 | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:52 |
-| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 18:02 |
+| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 18:03 |
+| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 18:11 |
+| Review: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 18:17 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
@@ -61,3 +63,23 @@
 - **Note:** Picked the chart that fits visual should prove in 10
 - **Built:** I wrote the one sentence this visual proves in 10seconds
 - **Note:** I updated the project README with problem, method, evidence, validation, limitation and the next steo.
+
+### Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report
+
+**What I did**
+
+- **Built:** I Wrote a short README for Monthly sales report, monthly sales report
+- **Built:** Added a screenshot and or exported file as evidence
+- **Built:** Wrote one resume bullet point from this week`s work
+- **Note:** Posted short updates , on Github, LinkledIn
+- **Note:** Updated the project README with problem, method, evidence, validation.
+
+### Review: Pivot tables, pivot charts, slicers, and a one-page management report
+
+**What I did**
+
+- **Note:** Reviewed all from this week
+- **Note:** I rated 4 and 5 in some
+- **Note:** I repeated some exercise
+- **Built:** Wrote down my biggest gap
+- **Note:** Updated project README with problems, method, evidence, validation, limitation, and next step.

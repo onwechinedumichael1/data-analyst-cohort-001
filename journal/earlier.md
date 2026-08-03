@@ -1,12 +1,12 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 28 July 2026
+> Last updated: 3 August 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 23
+- Lesson entries captured: 24
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 07 Jul 2026, 19:21 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 21:02 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:23 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 28 Jul 2026, 18:44 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 03 Aug 2026, 02:26 |
 
 ---
 
@@ -1236,9 +1236,9 @@ fix
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 28 Jul 2026, 18:44 |
-| Completed tasks | 5 |
-| Lesson complete | In progress |
+| Saved/updated | 03 Aug 2026, 02:20 |
+| Completed tasks | 13 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1247,6 +1247,30 @@ fix
 - **Note:** Confirmed total revenue = £5,510 and Suite revenue = £2,880
 - **Built:** Added % of Column Total view: right-click any value → Show Values As → % of Column Total
 - **Note:** Inserted PivotChart (Clustered Bar) → move to Dashboard sheet
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 2: Practice: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-practice` |
+| Phase | Excel |
+| Saved/updated | 03 Aug 2026, 02:26 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I completed a hands on exercise exercise, by applying Pivot tables, pivot charts, slicers, and a one page management report.
+- **Applied:** I used today`s skill to improve my monthly sales report
+- **Note:** I saved the files, query, and notebook I produced.
+- **Built:** I wrote one sentence on what the output actually shows
+- **Note:** And updated the project README with problem, method, evidence, validation, limitation, and next step
 
 ### To Explore Further
 

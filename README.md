@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**24 days logged &middot; 4 weeks &middot; 1-day streak &middot; last activity 2026-08-14**
+**25 days logged &middot; 4 weeks &middot; 1-day streak &middot; last activity 2026-08-20**
 
 ## Latest Proof
 
@@ -12,6 +12,8 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-20 | Mock Interview | Week 1: mock interview | Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
+[evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf) |
 | 2026-08-14 | Daily Concept Clinic | Daily Concept Clinic | Read about the next topic of the week’s discussion. |
 | 03 Aug 2026, 02:20 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 03 Aug 2026, 02:27 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
@@ -19,7 +21,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 03 Aug 2026, 17:52 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 03 Aug 2026, 18:03 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 03 Aug 2026, 18:11 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026, 18:17 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
 

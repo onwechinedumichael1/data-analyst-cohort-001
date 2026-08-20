@@ -309,6 +309,12 @@ So the ranks are:
 
 ## Mock Interview
 
+### Mock Interview
+
+_2026-08-20 · logged 2026-08-20 15:05 UTC_
+
+- **What to practise next:** Redo the take-home practice with a fresh dataset
+
 ### Week 1: mock interview
 
 _2026-08-20 · logged 2026-08-20 15:04 UTC_

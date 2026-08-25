@@ -2,17 +2,17 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 6/7 complete
+## Lessons — 7/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 13 | 03 Aug 2026, 02:20 |
-| Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 02:27 |
-| Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:28 |
-| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:52 |
-| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 18:03 |
-| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 18:11 |
-| Review: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 18:17 |
+| Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 13 | 03 Aug 2026 at 02:20 |
+| Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 02:27 |
+| Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 17:28 |
+| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 17:52 |
+| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 18:03 |
+| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 18:11 |
+| Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026 at 18:17 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 

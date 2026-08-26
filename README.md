@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**26 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-25**
+**27 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-08-26**
 
 ## Latest Proof
 
@@ -12,15 +12,15 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 25 Aug 2026 at 07:12 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 25 Aug 2026, 19:22 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-20 | Mock Interview | Mock Interview | — |
 | 2026-08-20 | Mock Interview | Week 1: mock interview | Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
 [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf) |
 | 2026-08-14 | Daily Concept Clinic | Daily Concept Clinic | Read about the next topic of the week’s discussion. |
-| 03 Aug 2026 at 02:20 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026 at 02:27 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026 at 17:28 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026 at 17:52 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 02:20 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 02:27 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 17:28 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 17:52 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 

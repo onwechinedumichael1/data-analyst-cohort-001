@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**27 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-08-26**
+**28 days logged &middot; 5 weeks &middot; 3-day streak &middot; last activity 2026-08-27**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 26 Aug 2026, 04:45 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 27 Aug 2026, 04:09 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-20 | Mock Interview | Mock Interview | — |
 | 2026-08-20 | Mock Interview | Week 1: mock interview | Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
 [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf) |

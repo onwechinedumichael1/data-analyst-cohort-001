@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 7 | 26 Aug 2026, 04:45 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 7 | 27 Aug 2026, 04:09 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 

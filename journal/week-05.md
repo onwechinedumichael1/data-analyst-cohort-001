@@ -2,11 +2,12 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 0/1 complete
+## Lessons — 1/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 7 | 27 Aug 2026, 04:09 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 7 | 27 Aug 2026 at 04:09 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 28 Aug 2026 at 10:24 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -20,3 +21,13 @@
 - **Note:** The Median is calculated by using this formula
 - **Note:** =MEDIAN(PatientData !B2:B9) = 1.65 hours
 - **Note:** I Calculated the mode of Acuity value
+
+### Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** We completed a hands on exercise applying Mean, Media, Mode, Standard Deviation, Correlation, Outliers, and sampling bias in plain English
+- **Applied:** We used today's skill to improve Customer behaviour stats statistics
+- **Note:** We saved the file, query, or query note book we produced
+- **Built:** We wrote one sentence  what the output actually show
+- **Built:** We updated or created the Project with README with problems, method, evidence, validation limitation, and next step

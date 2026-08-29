@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 7 | 27 Aug 2026, 04:09 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 28 Aug 2026, 10:24 |
-| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 29 Aug 2026, 19:08 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 29 Aug 2026, 19:09 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 29 Aug 2026, 19:18 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 

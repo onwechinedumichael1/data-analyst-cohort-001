@@ -12,7 +12,8 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 29 Aug 2026, 19:08 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 29 Aug 2026, 19:09 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
+| 29 Aug 2026, 19:18 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 28 Aug 2026, 10:24 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 27 Aug 2026, 04:09 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-20 | Mock Interview | Mock Interview | — |
@@ -20,7 +21,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf) |
 | 2026-08-14 | Daily Concept Clinic | Daily Concept Clinic | Read about the next topic of the week’s discussion. |
 | 03 Aug 2026, 02:20 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026, 02:27 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 

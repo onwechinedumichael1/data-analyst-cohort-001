@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 12 | 17 Jul 2026 at 15:14 |
+| Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 12 | 17 Jul 2026, 15:14 |
 
 ### Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
 

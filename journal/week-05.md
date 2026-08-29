@@ -2,12 +2,13 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 2/3 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 7 | 27 Aug 2026 at 04:09 |
-| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 28 Aug 2026 at 10:24 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 7 | 27 Aug 2026, 04:09 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 28 Aug 2026, 10:24 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 29 Aug 2026, 19:08 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -31,3 +32,13 @@
 - **Note:** We saved the file, query, or query note book we produced
 - **Built:** We wrote one sentence  what the output actually show
 - **Built:** We updated or created the Project with README with problems, method, evidence, validation limitation, and next step
+
+### Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Verified:** missing values was checked, duplicates checked, wrong types checked, bad dates checked, and identified
+- **Verified:** all the identified issues were fixed and logged in the note of what i changed and why i changed them.
+- **Note:** I recorded before and after row count
+- **Note:** I saved the cleaned version separately from the raw file
+- **Built:** I updated / created the project README with problem, method, evidence, validation, limitation, and next step.

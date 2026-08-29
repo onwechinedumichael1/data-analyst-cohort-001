@@ -9,7 +9,7 @@
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 7 | 27 Aug 2026, 04:09 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 28 Aug 2026, 10:24 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 29 Aug 2026, 19:09 |
-| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 29 Aug 2026, 19:18 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 29 Aug 2026, 19:41 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -43,3 +43,11 @@
 - **Note:** I recorded before and after row count
 - **Note:** I saved the cleaned version separately from the raw file
 - **Built:** I updated / created the project README with problem, method, evidence, validation, limitation, and next step.
+
+### Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** Answered three business questions using customers behaviour stats brief
+- **Explained:** Question 1
+- **Note:** which subject has the highest average score?

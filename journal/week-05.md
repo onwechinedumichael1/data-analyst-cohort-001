@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 29 Aug 2026, 19:09 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 30 Aug 2026, 02:10 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 30 Aug 2026, 02:13 |
-| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 30 Aug 2026, 02:14 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 30 Aug 2026, 02:15 |
+| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 5 | 30 Aug 2026, 02:17 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -62,3 +63,11 @@
 - **Explained:** Question 3: Is there a relationship between maths and Science Science Scores?
 - **Note:** Formula: CORREL(B2:B9,D2:D9) = Correlation (r) = O.998
 - **Note:** Plain sentence answer: Maths and Science scores have an almost perfect positive correlation (r) = 0.998, meaning students who score highly in maths tends also to score highly in science
+
+### Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** Revised all the did this week
+- **Note:** Covered gaps
+- **Note:** Repeated the exercises

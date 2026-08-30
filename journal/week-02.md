@@ -6,9 +6,9 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 12 | 10 Jul 2026 at 02:13 |
-| Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 10 Jul 2026 at 13:28 |
-| Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026 at 18:40 |
+| Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 12 | 10 Jul 2026, 02:13 |
+| Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 10 Jul 2026, 13:28 |
+| Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 18:40 |
 
 ### Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 

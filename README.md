@@ -14,13 +14,12 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | --- | --- | --- | --- |
 | 30 Aug 2026, 02:10 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 30 Aug 2026, 02:13 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 30 Aug 2026, 02:14 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 30 Aug 2026, 02:15 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
+| 30 Aug 2026, 02:17 | Lesson | Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 29 Aug 2026, 19:09 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 28 Aug 2026, 10:24 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 27 Aug 2026, 04:09 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-20 | Mock Interview | Mock Interview | — |
-| 2026-08-20 | Mock Interview | Week 1: mock interview | Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
-[evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf) |
 
 Full journal: [journal/index.md](journal/index.md)
 

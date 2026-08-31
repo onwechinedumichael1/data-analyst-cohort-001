@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**31 days logged &middot; 5 weeks &middot; 6-day streak &middot; last activity 2026-08-30**
+**32 days logged &middot; 5 weeks &middot; 7-day streak &middot; last activity 2026-08-31**
 
 ## Latest Proof
 

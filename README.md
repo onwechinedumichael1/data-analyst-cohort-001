@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**32 days logged &middot; 5 weeks &middot; 7-day streak &middot; last activity 2026-08-31**
+**32 days logged &middot; 6 weeks &middot; 7-day streak &middot; last activity 2026-08-31**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 31 Aug 2026, 04:43 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
+| 31 Aug 2026, 04:45 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
 | 30 Aug 2026, 02:10 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 30 Aug 2026, 02:13 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 30 Aug 2026, 02:15 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 30 Aug 2026, 02:17 | Lesson | Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 30 Aug 2026, 02:18 | Lesson | Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 29 Aug 2026, 19:09 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 28 Aug 2026, 10:24 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 27 Aug 2026, 04:09 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 2026-08-20 | Mock Interview | Mock Interview | — |
 
 Full journal: [journal/index.md](journal/index.md)
 

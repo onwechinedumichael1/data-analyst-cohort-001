@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 31 Aug 2026, 04:43 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026, 04:45 |
-| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 31 Aug 2026, 04:49 |
+| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026, 04:49 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 31 Aug 2026, 04:52 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -30,4 +31,14 @@
 - **Why it matters:** Fixed each issue and log what I changed and why I changed them.
 - **Note:** Recorded a before/after row count
 - **Note:** Saved the cleaned version separately from the raw file
+- **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step
+
+### Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** Answered three business questions using Quality control probability report
+- **Note:** Showed the exact formula, query, or code for each answer
+- **Built:** Wrote each answer in one plain sentence
+- **Built:** Wrote one limitation of your analysis
 - **Built:** Updated or created the project README with problem, method, evidence, validation, limitation, and next step

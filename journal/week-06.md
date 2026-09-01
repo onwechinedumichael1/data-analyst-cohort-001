@@ -2,15 +2,16 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 31 Aug 2026, 04:43 |
-| Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026, 04:45 |
-| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026, 04:49 |
-| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026, 04:52 |
-| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 4 | 31 Aug 2026, 04:57 |
+| Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 31 Aug 2026 at 04:43 |
+| Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:45 |
+| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:49 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:52 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:58 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 01 Sep 2026 at 13:59 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -53,3 +54,9 @@
 - **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence the visual should prove in 10 seconds
 - **Built:** Updateed or created the project README with problem, method, evidence, validation, limitation, and next step
+
+### Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Built:** I wrote a short README for Quality control probability report

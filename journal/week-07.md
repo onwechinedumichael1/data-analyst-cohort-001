@@ -2,14 +2,25 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 0/1 complete
+## Lessons — 1/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 7 | 01 Sep 2026 at 14:03 |
+| Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 01 Sep 2026 at 14:04 |
+| Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 01 Sep 2026 at 18:59 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
 **What I did**
 
 - **Built:** Created tables and ran the calculations needed for business objectives, build errors bar charts
+
+### Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Note:** I completed a hands-on exercise applying Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+- **Applied:** I used today's skill to improve your A/B test analysis for a marketing campaign
+- **Note:** I saved the file, query, or notebook you produced
+- **Built:** I wrote one sentence on what the output actually shows
+- **Built:** I updated/created the project README with problem, method, evidence, validation, limitation, and next step

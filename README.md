@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 01 Sep 2026 at 13:59 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
+| 01 Sep 2026 at 13:59 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
+| 01 Sep 2026 at 14:00 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
 | 31 Aug 2026 at 04:43 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 31 Aug 2026 at 04:45 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 31 Aug 2026 at 04:49 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 31 Aug 2026 at 04:52 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 31 Aug 2026 at 04:58 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 30 Aug 2026 at 02:10 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 30 Aug 2026 at 02:13 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 

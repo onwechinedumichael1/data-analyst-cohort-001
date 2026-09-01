@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:49 |
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:52 |
 | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 31 Aug 2026 at 04:58 |
-| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 01 Sep 2026 at 13:59 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 01 Sep 2026 at 13:59 |
+| Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 01 Sep 2026 at 14:00 |
 
 ### Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -60,3 +61,9 @@
 **What I did**
 
 - **Built:** I wrote a short README for Quality control probability report
+
+### Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** I revised everything on these previous weeks and affirmed coherence with the targets

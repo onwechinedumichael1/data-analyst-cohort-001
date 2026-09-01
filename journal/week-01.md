@@ -6,24 +6,24 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Set up your data analyst portfolio | Complete | 12 | 07 Jul 2026, 19:20 |
-| Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 11 | 07 Jul 2026, 19:21 |
-| Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 28 Jun 2026, 15:53 |
-| Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 05 Jul 2026, 02:04 |
-| Analyze: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 05 Jul 2026, 02:12 |
-| Visualize: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 06 Jul 2026, 19:54 |
-| Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Jul 2026, 00:24 |
-| Review: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Jul 2026, 00:51 |
-| Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 19:20 |
-| Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 19:45 |
-| Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 20:45 |
-| Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026, 21:02 |
-| Practice: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 17 Jul 2026, 18:14 |
-| Clean and validate: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 17 Jul 2026, 18:33 |
-| Analyze: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026, 08:19 |
-| Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026, 17:16 |
-| Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026, 23:23 |
-| Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026, 23:20 |
+| Set up your data analyst portfolio | Complete | 12 | 07 Jul 2026 at 19:20 |
+| Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 11 | 07 Jul 2026 at 19:21 |
+| Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 28 Jun 2026 at 15:53 |
+| Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 05 Jul 2026 at 02:04 |
+| Analyze: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 4 | 05 Jul 2026 at 02:12 |
+| Visualize: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 06 Jul 2026 at 19:54 |
+| Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Jul 2026 at 00:24 |
+| Review: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Jul 2026 at 00:51 |
+| Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026 at 19:20 |
+| Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026 at 19:45 |
+| Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026 at 20:45 |
+| Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP | Complete | 5 | 14 Jul 2026 at 21:02 |
+| Practice: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 17 Jul 2026 at 18:14 |
+| Clean and validate: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 17 Jul 2026 at 18:33 |
+| Analyze: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026 at 08:19 |
+| Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026 at 17:16 |
+| Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026 at 23:23 |
+| Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete | 5 | 20 Jul 2026 at 23:20 |
 
 ### Set up your data analyst portfolio
 

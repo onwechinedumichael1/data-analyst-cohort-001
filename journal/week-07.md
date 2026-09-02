@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:21 |
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:24 |
 | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:34 |
-| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:56 |
+| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:57 |
+| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 20:57 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -67,4 +68,14 @@
 - **Built:** Added a screenshot or exported file as evidence
 - **Built:** Wrote one resume bullet point from this week's work
 - **Note:** Posted a short update — LinkedIn, GitHub, or your learning log
+- **Built:** Created a project README with problem, method, evidence, validation, limitation, and next step
+
+### Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Note:** Revised everything from this week
+- **Note:** Rate my confidence 1–5 on each main skill this week
+- **Note:** Practiced the one exercise that felt weakest
+- **Built:** Identified and wrote the one biggest gap to fix next week
 - **Built:** Created a project README with problem, method, evidence, validation, limitation, and next step

@@ -2,12 +2,13 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 2/3 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 01 Sep 2026 at 14:04 |
-| Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 01 Sep 2026 at 18:59 |
+| Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 01 Sep 2026 at 18:59 |
+| Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:20 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -24,3 +25,13 @@
 - **Note:** I saved the file, query, or notebook you produced
 - **Built:** I wrote one sentence on what the output actually shows
 - **Built:** I updated/created the project README with problem, method, evidence, validation, limitation, and next step
+
+### Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Verified:** Checked for missing values, duplicates, wrong types, and bad dates
+- **Why it matters:** Fixed each issue and log what you changed and why
+- **Note:** Recorded the before/after row count
+- **Note:** Saved the cleaned version separately from the raw file
+- **Built:** Created the project README with problem, method, evidence, validation, limitation, and next step

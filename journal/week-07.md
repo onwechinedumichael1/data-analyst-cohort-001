@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 01 Sep 2026 at 14:04 |
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 01 Sep 2026 at 18:59 |
-| Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:20 |
+| Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:21 |
+| Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:24 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -34,4 +35,14 @@
 - **Why it matters:** Fixed each issue and log what you changed and why
 - **Note:** Recorded the before/after row count
 - **Note:** Saved the cleaned version separately from the raw file
+- **Built:** Created the project README with problem, method, evidence, validation, limitation, and next step
+
+### Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Note:** Answered the three business questions using A/B test analysis for a marketing campaign
+- **Note:** Showed the exact formula, query, or code for each answer
+- **Built:** Wrote each answer in one plain sentence
+- **Built:** Wrote one limitation of your analysis
 - **Built:** Created the project README with problem, method, evidence, validation, limitation, and next step

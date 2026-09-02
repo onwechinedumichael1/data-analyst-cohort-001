@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 01 Sep 2026 at 18:59 |
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:21 |
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:24 |
-| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:34 |
+| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:34 |
+| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:56 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -57,3 +58,13 @@
 - **Note:** Picked the chart type that fits the data, not the default
 - **Built:** Wrote the one sentence this visual should prove in 10 seconds
 - **Built:** Created the project README with problem, method, evidence, validation, limitation, and next step
+
+### Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Built:** Wrote a short README for A/B test analysis for a marketing campaign
+- **Built:** Added a screenshot or exported file as evidence
+- **Built:** Wrote one resume bullet point from this week's work
+- **Note:** Posted a short update — LinkedIn, GitHub, or your learning log
+- **Built:** Created a project README with problem, method, evidence, validation, limitation, and next step

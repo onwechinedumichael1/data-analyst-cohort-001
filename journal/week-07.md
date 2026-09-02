@@ -10,7 +10,7 @@
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 01 Sep 2026 at 18:59 |
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:21 |
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 02 Sep 2026 at 18:24 |
-| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:27 |
+| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 02 Sep 2026 at 18:34 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 

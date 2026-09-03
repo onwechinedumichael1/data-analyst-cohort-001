@@ -31,3 +31,11 @@
 
 ---
 <!-- framework:solve -->
+
+## Daily Concept Clinic
+
+### Pivot tables
+
+_2026-08-03_
+
+- **Taught:** Pivot table, and pivot charts

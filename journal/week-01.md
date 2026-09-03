@@ -271,8 +271,11 @@
 
 _2026-08-14 · logged 2026-08-14 18:00 UTC_
 
-- **What was taught:** Ranks:
-- **What you now understand:** Ranking is the arrangement of values from the highest to the lowest value, tagging the highest value as 1st, and the second highest as second, but if there are 2 values that are same, a tier is formed and that gives rise to the types of rankings; 1. Standard rankings is a ranking following the 1.2.2.4 style, where the two values with same values are labelled same position but the next value below skips the number of the duplicates above it, thus, Suppose the scores are:
+- **Taught:** Ranks:
+
+**What I now understand**
+
+Ranking is the arrangement of values from the highest to the lowest value, tagging the highest value as 1st, and the second highest as second, but if there are 2 values that are same, a tier is formed and that gives rise to the types of rankings; 1. Standard rankings is a ranking following the 1.2.2.4 style, where the two values with same values are labelled same position but the next value below skips the number of the duplicates above it, thus, Suppose the scores are:
 
 95, 90, 90, 80, 75
 
@@ -303,9 +306,10 @@ Equal values also receive the same rank, but no rank is skipped.
 So the ranks are:
 
 1, 2, 2, 3, 4
-- **What is still unclear or your feedback:** All is clear
+
+- **Still unclear:** All is clear
 - **Evidence:** Read about the next topic of the week’s discussion.
-- **What support or practice you need next:** the practices and the next topic, which is in alliance with today's discussion.
+- **Support I need next:** the practices and the next topic, which is in alliance with today's discussion.
 
 ## Mock Interview
 
@@ -319,14 +323,22 @@ _2026-08-20 · logged 2026-08-20 15:05 UTC_
 
 _2026-08-20 · logged 2026-08-20 15:04 UTC_
 
-- **Interview topic or question:** Week 1: mock interview
-- **Your answer summary:** STAR structure & evidence: 4/4
+**Your answer summary**
+
+STAR structure & evidence: 4/4
 Working Together (Behaviour): 4/4
 Delivering at Pace (Behaviour): 4/4
 Changing and Improving (Behaviour): 3/4
 Making Effective Decisions (Behaviour): 3/4
 Stakeholder Relationship Management (Technical): 3/4
-- **Feedback received:** 80 percent ready to apply for an analysis job, be it data analysis, business analysis and others.
-- **Evidence:** Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
+
+**Feedback received**
+
+80 percent ready to apply for an analysis job, be it data analysis, business analysis and others.
+
+**Evidence**
+
+Example used, involved, conflicts management theories, priority conditions in alignment with the business targets and goals.
 [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf](https://github.com/onwechinedumichael1/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-01/mock-interview/Gmail---Mock-interview-panel-brief_-Deji-Kolawole---Business-Analyst.pdf)
+
 - **What to practise next:** Redo the take-home practice with a fresh dataset
